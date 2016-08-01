@@ -1,0 +1,3095 @@
+{
+    "build-hash": "892b7abd6ef4bb97e8e12113be2882504bb4028d", 
+    "build-num": 27, 
+    "format": "release_manifest_v1", 
+    "packages": {
+        "GameSDK/Assets/UI/ConvertSWFtoGFX.bat": {
+            "hash": "dc34351c328e622fcb064a7e5f378db436802878", 
+            "installsize": 3862, 
+            "manifest": [
+                "bfd1a3f2501a2327e7ec74913a7fe1f1358bdea1 GameSDK/Assets/UI/ConvertSWFtoGFX.bat"
+            ], 
+            "size": 1910, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/EntityFlashTag.gfx": {
+            "hash": "3ee195fb2827284fae33b84aa65648fa2bb578eb", 
+            "installsize": 732, 
+            "manifest": [
+                "78d324242c8974f2473f34e68221857b13ac9b80 GameSDK/Assets/UI/EntityFlashTag.gfx"
+            ], 
+            "size": 1087, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/EntityFlashTag.fla": {
+            "hash": "c90ed150e064204d3e8f71d79f8513fd2e08ef18", 
+            "installsize": 56832, 
+            "manifest": [
+                "4ade23d8706463fe34bddec7bed41cf9e61dc170 GameSDK/Assets/UI/FlashAssets/EntityFlashTag.fla"
+            ], 
+            "size": 6607, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/HUD_2D.fla": {
+            "hash": "154eec0d5be3500daf9c8b021c2ca2b2a27dcef1", 
+            "installsize": 46262, 
+            "manifest": [
+                "050771977547072ad2e4212bf40af665e49d5f9e GameSDK/Assets/UI/FlashAssets/HUD_2D.fla"
+            ], 
+            "size": 42530, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/HUD_3D.fla": {
+            "hash": "3d1466faf948c435bc89452bf35a95ab2af98fa9", 
+            "installsize": 576831, 
+            "manifest": [
+                "1ffacc220a7ef10acab3bcd3d83713a384aaf736 GameSDK/Assets/UI/FlashAssets/HUD_3D.fla"
+            ], 
+            "size": 535780, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/Hud3D_fontsrc.fla": {
+            "hash": "ca01b8a37d4b117d58753b40f1e8d6608fc7664a", 
+            "installsize": 7446, 
+            "manifest": [
+                "014937f296c9dc19ebe2e0da9fbfe20e1622ac9e GameSDK/Assets/UI/FlashAssets/Hud3D_fontsrc.fla"
+            ], 
+            "size": 7201, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/MainMenu.fla": {
+            "hash": "67bb66c8f5c51d7182b31e07e95f8fa22fde41ad", 
+            "installsize": 5598637, 
+            "manifest": [
+                "9dcf24b22795fdbce1f0d4fe76e5ccfb1dd0e329 GameSDK/Assets/UI/FlashAssets/MainMenu.fla"
+            ], 
+            "size": 4703227, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/MainMenuRepo.as2proj": {
+            "hash": "b9d1758d90fe249cd4dc3f52f3b68439ca4cb640", 
+            "installsize": 1835, 
+            "manifest": [
+                "e913b44bc354f0c295cc9eab3a9d8c2c19759c16 GameSDK/Assets/UI/FlashAssets/MainMenuRepo.as2proj"
+            ], 
+            "size": 1044, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/MainMenu_fontsrc.fla": {
+            "hash": "fcba81dbad9812b853ca66fc9cd7fe3993f0ea6d", 
+            "installsize": 7332, 
+            "manifest": [
+                "5740e2bd5c5c9a5ed55e39c647086e33e89d3b8f GameSDK/Assets/UI/FlashAssets/MainMenu_fontsrc.fla"
+            ], 
+            "size": 7087, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/Menus_Dialogs.fla": {
+            "hash": "c6b3fc5a7764eeb9215ad8af3b3e4d571627e19b", 
+            "installsize": 167424, 
+            "manifest": [
+                "8e683081dcc818cd96cc09ef1927a238271dc9ce GameSDK/Assets/UI/FlashAssets/Menus_Dialogs.fla"
+            ], 
+            "size": 25187, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/USM_Player.fla": {
+            "hash": "1e61c6bddf84a04a7ba4bcf6ab29df2996d0342a", 
+            "installsize": 78848, 
+            "manifest": [
+                "05cbd4afd469c336b0f80aa691401a8a77c0214d GameSDK/Assets/UI/FlashAssets/USM_Player.fla"
+            ], 
+            "size": 12589, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/AuxFunctions.as": {
+            "hash": "132fb2b85baadb8ec483b0253bc5e03aed418697", 
+            "installsize": 2662, 
+            "manifest": [
+                "493f2cca211cbc14bec1ec3b0a47fed1647cd739 GameSDK/Assets/UI/FlashAssets/caurina/transitions/AuxFunctions.as"
+            ], 
+            "size": 1297, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/Equations.as": {
+            "hash": "058b09d00e1f8f0dc9b408a8353c5a3e0700b55e", 
+            "installsize": 32991, 
+            "manifest": [
+                "67fd07eaed73e11e630f79aef2c9ce2d38450419 GameSDK/Assets/UI/FlashAssets/caurina/transitions/Equations.as"
+            ], 
+            "size": 3992, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/PropertyInfoObj.as": {
+            "hash": "be67918d947e06add135bd28cbe150133aa81558", 
+            "installsize": 3890, 
+            "manifest": [
+                "5ae4c33834b8ee47fe85aca6d502c61d5354b70e GameSDK/Assets/UI/FlashAssets/caurina/transitions/PropertyInfoObj.as"
+            ], 
+            "size": 1445, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/SpecialProperty.as": {
+            "hash": "3095b03fe58e7a5ae3e342920bad832ffc2e878e", 
+            "installsize": 1698, 
+            "manifest": [
+                "a784cb5e3e1ba0f0ac2ba57388fae4a7b85a9ae9 GameSDK/Assets/UI/FlashAssets/caurina/transitions/SpecialProperty.as"
+            ], 
+            "size": 952, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/SpecialPropertyModifier.as": {
+            "hash": "412007ebfbc2c416d71852d1c4daa770657bb589", 
+            "installsize": 978, 
+            "manifest": [
+                "4e2319cd0a3272f87305aa00f45c55afa32d802f GameSDK/Assets/UI/FlashAssets/caurina/transitions/SpecialPropertyModifier.as"
+            ], 
+            "size": 789, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/SpecialPropertySplitter.as": {
+            "hash": "f751c21f17761249f2bec25ec9f2fd6e79758744", 
+            "installsize": 1215, 
+            "manifest": [
+                "02ca9393d61be70abf950a0b8f4a1c2c21be69c0 GameSDK/Assets/UI/FlashAssets/caurina/transitions/SpecialPropertySplitter.as"
+            ], 
+            "size": 898, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/TweenListObj.as": {
+            "hash": "9b88558b7e62d12e713895cadbf818c171373a3e", 
+            "installsize": 11245, 
+            "manifest": [
+                "554bc9465d388648b533554effece3fa0952a6a4 GameSDK/Assets/UI/FlashAssets/caurina/transitions/TweenListObj.as"
+            ], 
+            "size": 3253, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/Tweener.as": {
+            "hash": "12952d6d99f62dff279d33899271ad7ad8b8a593", 
+            "installsize": 43735, 
+            "manifest": [
+                "e2a86a9afb71ca9c6be27b6b636f27f1e6d99b61 GameSDK/Assets/UI/FlashAssets/caurina/transitions/Tweener.as"
+            ], 
+            "size": 9604, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/ColorShortcuts.as": {
+            "hash": "0e3b806776c1a6028af51c3467b3847ebd49a6da", 
+            "installsize": 18643, 
+            "manifest": [
+                "eab26dfb96cbe79d3a402ad7e91711d1177f6357 GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/ColorShortcuts.as"
+            ], 
+            "size": 4207, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/CurveModifiers.as": {
+            "hash": "b4fb08662ace1bb0109d352cc9e8d6f3070e08b6", 
+            "installsize": 3863, 
+            "manifest": [
+                "17216ed9d65453bc27549f4f1351f4e8382b557c GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/CurveModifiers.as"
+            ], 
+            "size": 1824, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/DisplayShortcuts.as": {
+            "hash": "2f83d8db9b147904f394947c6942b5d9e31dd05c", 
+            "installsize": 6390, 
+            "manifest": [
+                "75c2dfb694d349a76ce3fa8f991f693334000f1b GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/DisplayShortcuts.as"
+            ], 
+            "size": 1807, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/FilterShortcuts.as": {
+            "hash": "5872bf7c10e66f5addcaac5d6ab9e3d2e0697059", 
+            "installsize": 35506, 
+            "manifest": [
+                "8be8e2d3889d97737aed6fe686ec622af152be5a GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/FilterShortcuts.as"
+            ], 
+            "size": 5029, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/SoundShortcuts.as": {
+            "hash": "6969c2624e978856def2a618522b4cbaa20c4bd9", 
+            "installsize": 2501, 
+            "manifest": [
+                "67328ac8f3e3cc2e8c802d2b9a6ea83812cd70ba GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/SoundShortcuts.as"
+            ], 
+            "size": 1081, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/TextShortcuts.as": {
+            "hash": "05e1c3acf0727c69d6923617784dcf2ddcbf4b46", 
+            "installsize": 6732, 
+            "manifest": [
+                "3e3f7e5c3bec531a34b37c393be93d73fa161f01 GameSDK/Assets/UI/FlashAssets/caurina/transitions/properties/TextShortcuts.as"
+            ], 
+            "size": 1943, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/crosshair.fla": {
+            "hash": "90bd32b8d7c848fa46edac44930c876e1224095a", 
+            "installsize": 8780, 
+            "manifest": [
+                "5f85dbabab3a92bb0de79f3d857f974e7a4c0dc8 GameSDK/Assets/UI/FlashAssets/crosshair.fla"
+            ], 
+            "size": 8356, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryFlashLoader.as": {
+            "hash": "9aca99011512d734f9f87bd326abbbd7c72242a6", 
+            "installsize": 11051, 
+            "manifest": [
+                "a61f3603db75f8dc01d22982e21eac1d2e3e7f41 GameSDK/Assets/UI/FlashAssets/cryFlashLoader.as"
+            ], 
+            "size": 1532, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Core/CryConsoleDisplay.as": {
+            "hash": "389c5853f84d8ce533c76cf6fedf4b403f8fb90d", 
+            "installsize": 4282, 
+            "manifest": [
+                "6a15f90daafd7ee5464448345071fb636b0dcbc5 GameSDK/Assets/UI/FlashAssets/cryflash/Core/CryConsoleDisplay.as"
+            ], 
+            "size": 1302, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Core/CryConsoleNav.as": {
+            "hash": "8983d3310d437818d6dfb755114799d523ab80e9", 
+            "installsize": 2734, 
+            "manifest": [
+                "44e07da017bb020eaa92fa8596a471897bcd7d39 GameSDK/Assets/UI/FlashAssets/cryflash/Core/CryConsoleNav.as"
+            ], 
+            "size": 1140, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Buttons/CryButton.as": {
+            "hash": "5e76a0368cffd2cf335fc2fbe123164fa6843500", 
+            "installsize": 1370, 
+            "manifest": [
+                "ded7a7d067a7c2fb270d1b346d41c0da0e28779d GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Buttons/CryButton.as"
+            ], 
+            "size": 838, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Buttons/CrySlider.as": {
+            "hash": "80377493890771ab8095b98a8353dc1916b46741", 
+            "installsize": 3611, 
+            "manifest": [
+                "6af382fca69bde35e9b877a1af24112196f5ece0 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Buttons/CrySlider.as"
+            ], 
+            "size": 1315, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Buttons/CrySwitch.as": {
+            "hash": "1b91d012b9d09e889d54b51753838065008d44e8", 
+            "installsize": 3839, 
+            "manifest": [
+                "46d916ea611282167875349670bee07d60bbb7e7 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Buttons/CrySwitch.as"
+            ], 
+            "size": 1351, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/CryBaseObject.as": {
+            "hash": "2603c66da5fdd801dbe2dec4324c56af5e597180", 
+            "installsize": 3316, 
+            "manifest": [
+                "86bf589d8a896c554bfefd173d83ee9f200a4dcb GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/CryBaseObject.as"
+            ], 
+            "size": 1283, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/CryDialog.as": {
+            "hash": "6e79029bebc677612697d0c1859cf87e3c8578f6", 
+            "installsize": 2943, 
+            "manifest": [
+                "066244ee9691126c3f0bf649fe1a2f6b052fbb50 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/CryDialog.as"
+            ], 
+            "size": 1068, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/CryLoadingDialog.as": {
+            "hash": "8041f32501ee4f6b21926c5a2289b2ce5b6f0336", 
+            "installsize": 703, 
+            "manifest": [
+                "0f1863d5393da6141f55e7d5fa171f8ce197b3c7 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/CryLoadingDialog.as"
+            ], 
+            "size": 701, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryLeaderboard.as": {
+            "hash": "5a311acfd01fdd1f29a8be5d9c2673ddbd91d3d5", 
+            "installsize": 3869, 
+            "manifest": [
+                "8aece4f419cb78369303dd070d39e6ccd4647ac7 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryLeaderboard.as"
+            ], 
+            "size": 1590, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryLeaderboardCell.as": {
+            "hash": "7d8763ed81ec4c8e7739d032081f3dff045f3e1a", 
+            "installsize": 780, 
+            "manifest": [
+                "cb2bc68784501c600e9a8dc4cb777c276f296550 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryLeaderboardCell.as"
+            ], 
+            "size": 750, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryLeaderboardColumnCaption.as": {
+            "hash": "ccb2273008f12733042f14c206432d6d2a8912e7", 
+            "installsize": 452, 
+            "manifest": [
+                "1df51c82b6d6f1b08d02c106b98c160591cfc1a3 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryLeaderboardColumnCaption.as"
+            ], 
+            "size": 614, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryListItem.as": {
+            "hash": "c85527e0b2f194f3d29371381e78bc7bf97e4819", 
+            "installsize": 2470, 
+            "manifest": [
+                "a1fa16240fdf0f65cc059f18b80e15a75914ca4f GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryListItem.as"
+            ], 
+            "size": 1108, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryListbox.as": {
+            "hash": "4aded0592ef7c9687eec1d58040de5bdd8381939", 
+            "installsize": 5018, 
+            "manifest": [
+                "0ac578f18e82aaaee161c7f83ad840ccaab9c7d9 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryListbox.as"
+            ], 
+            "size": 1748, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryUserStats.as": {
+            "hash": "7c9e9ac7df0f53accad181211c40eae8e19f4260", 
+            "installsize": 2885, 
+            "manifest": [
+                "65e21cab04b40ed3661cd725f8751699c27dde1b GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryUserStats.as"
+            ], 
+            "size": 1354, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryUserStatsCell.as": {
+            "hash": "8b4bd792d3eae687afcc0a4ddcb941ed05477343", 
+            "installsize": 1353, 
+            "manifest": [
+                "bb0c24cb6e57f7c8be1180db7273411d44701dc2 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Lists/CryUserStatsCell.as"
+            ], 
+            "size": 903, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Text/CryLabel.as": {
+            "hash": "fb6843d497d368d46dc645bc8d812a37d9a0d645", 
+            "installsize": 1195, 
+            "manifest": [
+                "3d94e095335c29c1d10629189288144b65748354 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Text/CryLabel.as"
+            ], 
+            "size": 828, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Text/CryTextField.as": {
+            "hash": "ce25ffdcb3c0dc53deb9126d1d304e6abf941ad8", 
+            "installsize": 3885, 
+            "manifest": [
+                "b79754bff92e1d708e053495d4342d1b7b2a46f9 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Text/CryTextField.as"
+            ], 
+            "size": 1593, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Various/CryImage.as": {
+            "hash": "069d04a75e7627f468626594916533c032de075f", 
+            "installsize": 1909, 
+            "manifest": [
+                "c96072fea467cbdac22c10ddd8fc7c2baa2501b3 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Various/CryImage.as"
+            ], 
+            "size": 1012, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Various/CryScrollArea.as": {
+            "hash": "c9da3da3eb0ba0609a3f556e742551e2496d74bd", 
+            "installsize": 3906, 
+            "manifest": [
+                "1a030e4768178615a9a2a13341ba28e4ae75abf5 GameSDK/Assets/UI/FlashAssets/cryflash/CryObjects/Various/CryScrollArea.as"
+            ], 
+            "size": 1452, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/CrySprite.as": {
+            "hash": "dd6af08ebc2c94c63d7a63eae29ea5187425bafd", 
+            "installsize": 2854, 
+            "manifest": [
+                "9a62f323f1cdadfd76066ce84ae3baf5bc12f182 GameSDK/Assets/UI/FlashAssets/cryflash/CrySprite.as"
+            ], 
+            "size": 1157, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Delegates.as": {
+            "hash": "54e212332d88822a934fffc05981cb5649be7b70", 
+            "installsize": 622, 
+            "manifest": [
+                "5cfa1fd2a781cc7751e612cdf4d0848031bc439f GameSDK/Assets/UI/FlashAssets/cryflash/Delegates.as"
+            ], 
+            "size": 672, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Events/CryDispatcher.as": {
+            "hash": "ff78ea3306e61f75a8173740d4ab1bcea544cf48", 
+            "installsize": 572, 
+            "manifest": [
+                "0d81b63e5ff16a2c4dee101b03f715d54c5cf634 GameSDK/Assets/UI/FlashAssets/cryflash/Events/CryDispatcher.as"
+            ], 
+            "size": 633, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Events/CryEvent.as": {
+            "hash": "248930685ca914c3f3a45de276ca04c5a6ed16e3", 
+            "installsize": 889, 
+            "manifest": [
+                "35402c10e4c55e344996744875cd6655bd5a62b5 GameSDK/Assets/UI/FlashAssets/cryflash/Events/CryEvent.as"
+            ], 
+            "size": 725, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ApplyButton.as": {
+            "hash": "8c07649de24827b23ab16f6c2f8fee8c3efce6ff", 
+            "installsize": 1412, 
+            "manifest": [
+                "d3915d94ba5b1750c410dfe8b22f16172e7bf7d2 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ApplyButton.as"
+            ], 
+            "size": 938, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/BackButton.as": {
+            "hash": "d07df327c5b7f5fc90c0fedbcc95b3993bd7c1f4", 
+            "installsize": 1335, 
+            "manifest": [
+                "a891df5c1305b90ff13075063202855e5751002a GameSDK/Assets/UI/FlashAssets/cryflash/Examples/BackButton.as"
+            ], 
+            "size": 874, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Button.as": {
+            "hash": "be7f4df2bfe5632d96ee62936f8e4ccd0affb8a2", 
+            "installsize": 980, 
+            "manifest": [
+                "52006a0a87ff8876ff7d6b2e96c445b07be765b8 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Button.as"
+            ], 
+            "size": 794, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ButtonDisabled.as": {
+            "hash": "9ad4e3e325542b3190f04db28b4d555511b070ec", 
+            "installsize": 965, 
+            "manifest": [
+                "58770ad23bb1473eeb7c55019a978e19462439e6 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ButtonDisabled.as"
+            ], 
+            "size": 823, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Dialog.as": {
+            "hash": "0d20c9185fb81413e6a309f979969f3ad2411353", 
+            "installsize": 1914, 
+            "manifest": [
+                "f644c17791a7aa2438e0625e88de76f560b56a05 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Dialog.as"
+            ], 
+            "size": 937, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Image.as": {
+            "hash": "d345c7afa8c179b206d606806f8227fdba03ffbd", 
+            "installsize": 852, 
+            "manifest": [
+                "1a8a37d33c9faeb22bb7e54aafdc68232dab9e54 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Image.as"
+            ], 
+            "size": 801, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ItemSelect.as": {
+            "hash": "c406d262e3167c2e6d87953e19042a773298570c", 
+            "installsize": 302, 
+            "manifest": [
+                "4bad41dabd8530a51dea7153a5c4f74ba6c5e664 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ItemSelect.as"
+            ], 
+            "size": 570, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Label.as": {
+            "hash": "7ca44e97ca0c3dffbfd2fad30a19df3cb04e27a5", 
+            "installsize": 507, 
+            "manifest": [
+                "0f110b4932a6633a9ade6121715dc893320f4d05 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Label.as"
+            ], 
+            "size": 662, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ListBox.as": {
+            "hash": "c153761b11f99e5b7e5851326b8aefef5b5a09fd", 
+            "installsize": 693, 
+            "manifest": [
+                "12afbe3415378f5a3a0ad89ea6b442d092f1713a GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ListBox.as"
+            ], 
+            "size": 730, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/LoadingDialog.as": {
+            "hash": "cc389fe162285c4b4d83ec230c2e011ddba97f5e", 
+            "installsize": 478, 
+            "manifest": [
+                "c9b7428c5f92ff76e9d2799e64c5de91ec58a029 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/LoadingDialog.as"
+            ], 
+            "size": 622, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/PlayerListItem.as": {
+            "hash": "857a0b37c787132d5a3f6a3c344f017a1f43f911", 
+            "installsize": 2073, 
+            "manifest": [
+                "f0765cee3f8ec03b02aeee31fa8a0c4a3bafc740 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/PlayerListItem.as"
+            ], 
+            "size": 1018, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ResetButton.as": {
+            "hash": "70afdcdf64f0b3a072cc55f035dab678c5753092", 
+            "installsize": 1493, 
+            "manifest": [
+                "2ce80767a632464d983cfb2022d7276de23844b0 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/ResetButton.as"
+            ], 
+            "size": 942, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Seperator.as": {
+            "hash": "c09754ddd8c5f71a86b03914f940654e0a7bc9c7", 
+            "installsize": 436, 
+            "manifest": [
+                "910487ab37a690c86fd3979357a15467707a150e GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Seperator.as"
+            ], 
+            "size": 622, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Slider.as": {
+            "hash": "1422548eec43458c883135214167c20f2ec08e17", 
+            "installsize": 1737, 
+            "manifest": [
+                "7bcdf8f59a7018a091dc396faa316aa082ee6b8a GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Slider.as"
+            ], 
+            "size": 983, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Switch.as": {
+            "hash": "38c985ddcf6f46e94d19576f9ff69ca848d59e9c", 
+            "installsize": 1364, 
+            "manifest": [
+                "53050a24bb9932769218a5361f9e008c7f613320 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/Switch.as"
+            ], 
+            "size": 874, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Examples/TextField.as": {
+            "hash": "632ab732b6142f92b8a494cd16073a9ebe39fe85", 
+            "installsize": 742, 
+            "manifest": [
+                "a45a4c4599e4c903681d924e30019a9027281e83 GameSDK/Assets/UI/FlashAssets/cryflash/Examples/TextField.as"
+            ], 
+            "size": 749, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/LanguageBar.as": {
+            "hash": "b81d72be8ece465542355ee33042109bddb3bdba", 
+            "installsize": 13505, 
+            "manifest": [
+                "f39f11f0b02ac017307e82c7bde6b42063923e2d GameSDK/Assets/UI/FlashAssets/cryflash/LanguageBar.as"
+            ], 
+            "size": 3959, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Main.as": {
+            "hash": "14383befd4fd25bb6f4188760b45a3cb2ae942fa", 
+            "installsize": 23235, 
+            "manifest": [
+                "d83583c106a0c15f63a065267fa0346cad850876 GameSDK/Assets/UI/FlashAssets/cryflash/Main.as"
+            ], 
+            "size": 4837, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/cryflash/Registry.as": {
+            "hash": "e4bd758a3c22a1fff0399ea80e227c19a301c0b6", 
+            "installsize": 1867, 
+            "manifest": [
+                "e4fd186f05b058a0036c9fed2535a51d35d9aba8 GameSDK/Assets/UI/FlashAssets/cryflash/Registry.as"
+            ], 
+            "size": 920, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.as": {
+            "hash": "90cacc2db117f48c132d9b4184b72abd6d05b490", 
+            "installsize": 1610, 
+            "manifest": [
+                "705b578e5b255b7a63d3cd009547f884c3ffcfac GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.as"
+            ], 
+            "size": 941, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.fla": {
+            "hash": "d49ebe49061ee9a3c6159c30315b02566afde503", 
+            "installsize": 29410, 
+            "manifest": [
+                "bc4975053d711aeb96309b840adaa67af2ff306d GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.fla"
+            ], 
+            "size": 28193, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.gfx": {
+            "hash": "01596cdfd399b578df8ef1dedadb6d6cdad5d308", 
+            "installsize": 2659, 
+            "manifest": [
+                "d2c37cc4797f8507938f2f976aeec1204bc80357 GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.gfx"
+            ], 
+            "size": 3023, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.swf": {
+            "hash": "5c50a2081aae9cfadc73b79dad663831dfc5662b", 
+            "installsize": 4295, 
+            "manifest": [
+                "2b1ebb56edc8fe6ebe80f103c29c23cd11eb27b8 GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo.swf"
+            ], 
+            "size": 2990, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo_FakeRevsAndGears.as": {
+            "hash": "fca3ef23f750e7d59c8cad86f42d8b6433698fce", 
+            "installsize": 1979, 
+            "manifest": [
+                "8dbc657fce6b16b09775001d4dc7e418ce95500d GameSDK/Assets/UI/FlashAssets/demo/Demo_Speedo_FakeRevsAndGears.as"
+            ], 
+            "size": 1149, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/gfx/events/EventDispatcher.as": {
+            "hash": "333c1b8073f2060458c1b344a265983939eea6d4", 
+            "installsize": 6527, 
+            "manifest": [
+                "d4eabecd594bcf2a35f5cfa22f03d0e96e2280bd GameSDK/Assets/UI/FlashAssets/gfx/events/EventDispatcher.as"
+            ], 
+            "size": 2271, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/hud_planes_uv.tif": {
+            "hash": "a2c650632fa3420dda1c03beb4f13c0db2bed8a0", 
+            "installsize": 2101506, 
+            "manifest": [
+                "8e8ad8d43a6e073633df7337279b4f53d6de9437 GameSDK/Assets/UI/FlashAssets/images/hud_planes_uv.tif"
+            ], 
+            "size": 40132, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/pc/computer_key_Enter.png": {
+            "hash": "24613b53f7b8523be0ec07efb5e9f99f842b6e18", 
+            "installsize": 8462, 
+            "manifest": [
+                "2afbaf7f2ba38475d699f8f11ad0967f84633df4 GameSDK/Assets/UI/FlashAssets/images/pc/computer_key_Enter.png"
+            ], 
+            "size": 8760, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Circle.png": {
+            "hash": "2d391605750e798413dfc4893749c1fd0d1bb9e3", 
+            "installsize": 965, 
+            "manifest": [
+                "422289bd68da8b4b19db98c7de933c1b9ffeb1b4 GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Circle.png"
+            ], 
+            "size": 1341, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Select.png": {
+            "hash": "05f1b6a32d14749861da08cf7c8778bfdaabe78c", 
+            "installsize": 2924, 
+            "manifest": [
+                "88b7abf832f2e0de67c381a0fa01e44d5a176f0d GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Select.png"
+            ], 
+            "size": 3298, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Square.png": {
+            "hash": "b2b1e579f1ba45bc25f8543e063aa0c8f3692713", 
+            "installsize": 251, 
+            "manifest": [
+                "a7d81114eff13cd332fecd7d55020c580f702dfc GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Square.png"
+            ], 
+            "size": 593, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Start.png": {
+            "hash": "f9c6c23f2a7f0c989ef405762722424d6878a05d", 
+            "installsize": 3353, 
+            "manifest": [
+                "556df6fac58097f95e75febe5f56a386c11a627c GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Start.png"
+            ], 
+            "size": 3728, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Triangle.png": {
+            "hash": "bc5dd6100aa7e4572252140339036ff2ce6af45d", 
+            "installsize": 889, 
+            "manifest": [
+                "bc46c1d2afb3a9cfba4978549c60cafe50e50f14 GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_Triangle.png"
+            ], 
+            "size": 1266, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_X.png": {
+            "hash": "18742db2859176f56cb96c05ae9fc5b89fde4a1f", 
+            "installsize": 1093, 
+            "manifest": [
+                "f7a32d1e59b37b576f90ace8b3b0ac886a0da733 GameSDK/Assets/UI/FlashAssets/images/ps3/PS_Button_X.png"
+            ], 
+            "size": 1463, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_A.png": {
+            "hash": "2d18d4a13798974df747e5f8aea3d3524393677f", 
+            "installsize": 3717, 
+            "manifest": [
+                "c1e611a41e5c84ca2cc45e808e5da737e56322a1 GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_A.png"
+            ], 
+            "size": 4091, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_B.png": {
+            "hash": "b1ab8c539fe51e3b6949aebeac46fa7ea60ad857", 
+            "installsize": 3733, 
+            "manifest": [
+                "e09d599da9c22ad1d8b7ab9725cd7728c2bc8fe6 GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_B.png"
+            ], 
+            "size": 4107, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_Back.png": {
+            "hash": "29e152189649ccc0e6022c6c0902bdd845bf0d57", 
+            "installsize": 3508, 
+            "manifest": [
+                "b46889ae24b060d19b369797c3124168647f3423 GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_Back.png"
+            ], 
+            "size": 3885, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_Start.png": {
+            "hash": "37750b1a62bb382f970705c32c0d344b09754117", 
+            "installsize": 3526, 
+            "manifest": [
+                "c5d11114239396827319cd53c252615b6524f87f GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_Start.png"
+            ], 
+            "size": 3903, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_X.png": {
+            "hash": "aae8f0144a410aa203815de0287b97e701f6fc1f", 
+            "installsize": 3897, 
+            "manifest": [
+                "276564d6074516070c4c04d4017cacf33eef0ebb GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_X.png"
+            ], 
+            "size": 4270, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_Y.png": {
+            "hash": "0b9c2e14d0ae0514468a204b2f2afb8904d1573c", 
+            "installsize": 3857, 
+            "manifest": [
+                "613318196fb77e2c8d02fa07843235bbe99422d3 GameSDK/Assets/UI/FlashAssets/images/x360/Xbox_Button_Y.png"
+            ], 
+            "size": 4231, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/scripts/HUD/HUD2D.as": {
+            "hash": "d2ad6d52e286f66f41e3c7b08699958b5f08a8d5", 
+            "installsize": 8572, 
+            "manifest": [
+                "e750ba6e53fc464d9fb08943cd274b363d531799 GameSDK/Assets/UI/FlashAssets/scripts/HUD/HUD2D.as"
+            ], 
+            "size": 2739, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/scripts/HUD/HUD3D.as": {
+            "hash": "8f6246be02214fbc093a1f38c623117850dd1574", 
+            "installsize": 15522, 
+            "manifest": [
+                "e6220121f394cf6c6d4c419cae84be478536088a GameSDK/Assets/UI/FlashAssets/scripts/HUD/HUD3D.as"
+            ], 
+            "size": 4226, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/scripts/HUD/PlayerForScoreboard.as": {
+            "hash": "09109fc2e100de0706da4d8c3a45dc9c4ef3232f", 
+            "installsize": 1178, 
+            "manifest": [
+                "218224808005df7db13b082323003d77c5ae742b GameSDK/Assets/UI/FlashAssets/scripts/HUD/PlayerForScoreboard.as"
+            ], 
+            "size": 779, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/scripts/usm_player/main.as": {
+            "hash": "5c509c199caddd1f8f02c66a02f74126ed1ebae0", 
+            "installsize": 1877, 
+            "manifest": [
+                "f20ecbc4aea9b0fe0aa3c1257cbfc791ba3245bf GameSDK/Assets/UI/FlashAssets/scripts/usm_player/main.as"
+            ], 
+            "size": 977, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/FlashAssets/scripts/usm_player/videoplayer.as": {
+            "hash": "fa648b1c7e51793767c92c688d0a05571f1ee22e", 
+            "installsize": 2898, 
+            "manifest": [
+                "6ef7092480a1cafd5b47aa80fe5aaaa9dbc41822 GameSDK/Assets/UI/FlashAssets/scripts/usm_player/videoplayer.as"
+            ], 
+            "size": 1251, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/GlobalEnums.xml": {
+            "hash": "8d0a811d00f34a8b96c3f4a0056bf250313a478d", 
+            "installsize": 3002, 
+            "manifest": [
+                "f5f36395586e19b618581f1af446b62ecc282af1 GameSDK/Assets/UI/GlobalEnums.xml"
+            ], 
+            "size": 1143, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD3D_Font_LocFont.gfx": {
+            "hash": "0dc07fd9ae52681d84bb3abdd1247f1427c0c899", 
+            "installsize": 20799, 
+            "manifest": [
+                "aaf1035ad6b55ad1fc28dcb514cb722ec87a16c4 GameSDK/Assets/UI/HUD3D_Font_LocFont.gfx"
+            ], 
+            "size": 13761, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD3D_Font_LocFont.swf": {
+            "hash": "58cd5b6dd6305c5af700a9b81efc90b363af7f20", 
+            "installsize": 14074, 
+            "manifest": [
+                "e521e179e5a77ba67a34ac4e281b0a38b5f1e338 GameSDK/Assets/UI/HUD3D_Font_LocFont.swf"
+            ], 
+            "size": 14432, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD_2D.gfx": {
+            "hash": "850dda88ac62d7fc5d6ae142f9953c61cbb51092", 
+            "installsize": 19520, 
+            "manifest": [
+                "8b7cd3967b8c6750b615fa7162dba38aa784071a GameSDK/Assets/UI/HUD_2D.gfx"
+            ], 
+            "size": 19843, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD_2D.swf": {
+            "hash": "f0b4f10547bead8fc7779d13207f033c0484e74b", 
+            "installsize": 19374, 
+            "manifest": [
+                "19e25361bf8c72e41c58b7a8437d95091513ba95 GameSDK/Assets/UI/HUD_2D.swf"
+            ], 
+            "size": 19707, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD_3D.gfx": {
+            "hash": "5350fdf58a55db3602979beee66b714bdaf1173e", 
+            "installsize": 129739, 
+            "manifest": [
+                "2854a2faf29739744c110ab89019f3cb4ec0832c GameSDK/Assets/UI/HUD_3D.gfx"
+            ], 
+            "size": 63215, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD_3D.swf": {
+            "hash": "8f3f8fa1acb598b9fd4847da12564dfaac1f982e", 
+            "installsize": 62323, 
+            "manifest": [
+                "f6faad312438597fbfb94305adec2db00ddedfd2 GameSDK/Assets/UI/HUD_3D.swf"
+            ], 
+            "size": 62687, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD_Font_LocFont.gfx": {
+            "hash": "f07608ae04003723483b66b6596ede3c42102d73", 
+            "installsize": 24697, 
+            "manifest": [
+                "e83fe949965dea96a93c131dfaebc8d29e4a383c GameSDK/Assets/UI/HUD_Font_LocFont.gfx"
+            ], 
+            "size": 25058, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/HUD_Font_LocFont.swf": {
+            "hash": "a10b5032f5521cfbe2cb2f3a3e7b6d0ed562c50d", 
+            "installsize": 25358, 
+            "manifest": [
+                "9375e22243a30d8ae1c90358bcd6d9ed5f12e487 GameSDK/Assets/UI/HUD_Font_LocFont.swf"
+            ], 
+            "size": 25719, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/IME.gfx": {
+            "hash": "931e364b0ee46f4ecf7290fa155fbdd86a7ca932", 
+            "installsize": 4401, 
+            "manifest": [
+                "16e9dc8066441917aadc9279c20ca23f5aa35f80 GameSDK/Assets/UI/IME.gfx"
+            ], 
+            "size": 4747, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/IME.swf": {
+            "hash": "9d9a4cc5691cf4446730965ccbea98bca4afdd10", 
+            "installsize": 4366, 
+            "manifest": [
+                "5c4f7defc3185cdd169b8cb39186c081e2b3fa59 GameSDK/Assets/UI/IME.swf"
+            ], 
+            "size": 4712, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/LangBar.gfx": {
+            "hash": "c55975abc7c18e804a6c2523293fa01588f2d729", 
+            "installsize": 3457, 
+            "manifest": [
+                "8400602d2441d2cdf7a4de37a2c18b216430db5d GameSDK/Assets/UI/LangBar.gfx"
+            ], 
+            "size": 3807, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/LangBar.swf": {
+            "hash": "7d95c42beb15c9b8769a18da86244d5aa8cbae3b", 
+            "installsize": 3435, 
+            "manifest": [
+                "6752993e07c0eb347da0de8acdfe5426bfb0abae GameSDK/Assets/UI/LangBar.swf"
+            ], 
+            "size": 3785, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Menus_Dialogs.gfx": {
+            "hash": "7464acc765ee03d40946b259f264c7574cc1bbcd", 
+            "installsize": 45686, 
+            "manifest": [
+                "491180d6263f457df8a56646d1ca3244a7ed7f30 GameSDK/Assets/UI/Menus_Dialogs.gfx"
+            ], 
+            "size": 12723, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Menus_Startmenu.gfx": {
+            "hash": "fb4101591cb926c544ba186c803c57ee5269e826", 
+            "installsize": 49282, 
+            "manifest": [
+                "036ff9eed6dd011bee3721b036cb1cd8ffd6686d GameSDK/Assets/UI/Menus_Startmenu.gfx"
+            ], 
+            "size": 49642, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Menus_Startmenu.swf": {
+            "hash": "68f1afd087b0f3b1dc3d40f9a448b18aa24ab622", 
+            "installsize": 168794, 
+            "manifest": [
+                "8263333146729958dc4151df854a5f43c1f680e1 GameSDK/Assets/UI/Menus_Startmenu.swf"
+            ], 
+            "size": 169184, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Objectives_global.xml": {
+            "hash": "3328b36dd5a659246190bbb22e540a8692fb524b", 
+            "installsize": 273, 
+            "manifest": [
+                "0f299eacc3aed5965a30132ea321784ae3c40a6e GameSDK/Assets/UI/Objectives_global.xml"
+            ], 
+            "size": 452, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow.gfx": {
+            "hash": "3e7052fb61388b4db57855f20162a4ae6454998c", 
+            "installsize": 3185, 
+            "manifest": [
+                "abad1c0a468b94a0549b3eb09a44b8655c26f628 GameSDK/Assets/UI/StatusWindow.gfx"
+            ], 
+            "size": 3540, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow.swf": {
+            "hash": "10bcbb9e38e3d2e1475f78d7ded27814a0f38b94", 
+            "installsize": 3159, 
+            "manifest": [
+                "2bd83f69fd27745dbe763fd8b735cc0c1ff01c0e GameSDK/Assets/UI/StatusWindow.swf"
+            ], 
+            "size": 3514, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow_ch.gfx": {
+            "hash": "dc51ad00acbd68f187ca13de7cc052677fe91dbd", 
+            "installsize": 2619, 
+            "manifest": [
+                "4d917d5df571849947315c5d2e13febaf07ae09e GameSDK/Assets/UI/StatusWindow_ch.gfx"
+            ], 
+            "size": 2977, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow_ch.swf": {
+            "hash": "fdc59afef58f1e73aeb2725ceaf393c6a5ed171d", 
+            "installsize": 2550, 
+            "manifest": [
+                "a0aa2c04bef1c7723c2e3babd3c50a301f4234d5 GameSDK/Assets/UI/StatusWindow_ch.swf"
+            ], 
+            "size": 2908, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow_jp.gfx": {
+            "hash": "62969c14b3d219d4185a81802678b0697ecbc735", 
+            "installsize": 3466, 
+            "manifest": [
+                "60bd5a0a8a5e31998b71317ba2f7b44a1aada2a2 GameSDK/Assets/UI/StatusWindow_jp.gfx"
+            ], 
+            "size": 3824, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow_jp.swf": {
+            "hash": "56e6affc4383537b52635c2f169e359765096927", 
+            "installsize": 3418, 
+            "manifest": [
+                "eea86250eaf8995c5ff289e3faff76e8899068eb GameSDK/Assets/UI/StatusWindow_jp.swf"
+            ], 
+            "size": 3775, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow_kr.gfx": {
+            "hash": "da2b60336acaa6185d69245f642708d2d1a7c448", 
+            "installsize": 2729, 
+            "manifest": [
+                "94658df05372ebabfbef5ebccf339acda3ba636a GameSDK/Assets/UI/StatusWindow_kr.gfx"
+            ], 
+            "size": 3087, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/StatusWindow_kr.swf": {
+            "hash": "c7843f05a8e5487e08e1779525ee496503616165", 
+            "installsize": 2673, 
+            "manifest": [
+                "ca89481d081438ee06e4a169c2bef7c30a7d4d28 GameSDK/Assets/UI/StatusWindow_kr.swf"
+            ], 
+            "size": 3031, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/TexturePreload.xml": {
+            "hash": "cdf6fa14b05ae1a2bc4ed2d0063455d4f60b07d7", 
+            "installsize": 1137, 
+            "manifest": [
+                "aa192515aa299605711b56bd848fc14fb58855cd GameSDK/Assets/UI/TexturePreload.xml"
+            ], 
+            "size": 778, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/HardLeft.tif": {
+            "hash": "2b0a648088af513335d65eb88d5e131b47dff3bc", 
+            "installsize": 1049058, 
+            "manifest": [
+                "8d2a7801a66a2091bc78d7728fc6b480cbd9d362 GameSDK/Assets/UI/Textures/HardLeft.tif"
+            ], 
+            "size": 16941, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/HardRight.tif": {
+            "hash": "a007a86fa11d67392e889717497a33b2c3302acb", 
+            "installsize": 1049058, 
+            "manifest": [
+                "063e6acf422b1ce10c22784ba0ed142e1ec525ad GameSDK/Assets/UI/Textures/HardRight.tif"
+            ], 
+            "size": 17036, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Menus_Startmenu_Noise.tif": {
+            "hash": "0bc0c84f4863a16957d843d546bf7c01bbed2d05", 
+            "installsize": 131330, 
+            "manifest": [
+                "038b2b9cca7e5cf1451e5fd3ac66135e3365545a GameSDK/Assets/UI/Textures/Menus_Startmenu_Noise.tif"
+            ], 
+            "size": 79470, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Menus_Startmenu_Particle1.tif": {
+            "hash": "cd6acf67a70c7e0778aaef0bf03642f000da8ad3", 
+            "installsize": 16626, 
+            "manifest": [
+                "14594490d98e6972a07d027c700898e9f2674cc5 GameSDK/Assets/UI/Textures/Menus_Startmenu_Particle1.tif"
+            ], 
+            "size": 4648, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Menus_Startmenu_Particle2.tif": {
+            "hash": "956090f5aba72ddc7ad994fec87f3ca54626c009", 
+            "installsize": 4322, 
+            "manifest": [
+                "dc5f5120b70237ab6ab71772bea23b442ba3a97e GameSDK/Assets/UI/Textures/Menus_Startmenu_Particle2.tif"
+            ], 
+            "size": 1797, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Menus_Startmenu_Particle3.tif": {
+            "hash": "b47edc2325685af0fa3f6fde6d881fc1d10bc07c", 
+            "installsize": 1250, 
+            "manifest": [
+                "53aecb4e1d8d7b374fe0c452df41f09d2afc2e54 GameSDK/Assets/UI/Textures/Menus_Startmenu_Particle3.tif"
+            ], 
+            "size": 822, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Menus_Startmenu_Scanline.tif": {
+            "hash": "9a78d0dd8a5a0150fcc8dae845e108521cc11731", 
+            "installsize": 65778, 
+            "manifest": [
+                "30547b9dd4937f84088ce56d2c6fc5fdd2d7a76b GameSDK/Assets/UI/Textures/Menus_Startmenu_Scanline.tif"
+            ], 
+            "size": 1095, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Menus_mouse_cursor.tif": {
+            "hash": "d7f7e63dd2e144c679e48d6cc52874aa9726ac54", 
+            "installsize": 8418, 
+            "manifest": [
+                "2ea56d24ea9488a9411d47526efaef0a447b485a GameSDK/Assets/UI/Textures/Menus_mouse_cursor.tif"
+            ], 
+            "size": 2970, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PC_OnFoot.tif": {
+            "hash": "7e9b2a9c2116714189b3b047a71f72d5b75cf55c", 
+            "installsize": 2097890, 
+            "manifest": [
+                "a41b6d5920ada400c3d67ba4f3b56d7e34e0fe4c GameSDK/Assets/UI/Textures/PC_OnFoot.tif"
+            ], 
+            "size": 257722, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PC_Vehicle.tif": {
+            "hash": "a36586a406a15d8bf33f7ff323c2bdec69f45b33", 
+            "installsize": 2097890, 
+            "manifest": [
+                "ac4ab3f4d1816b454aec7b38ccfad22cd8166345 GameSDK/Assets/UI/Textures/PC_Vehicle.tif"
+            ], 
+            "size": 220443, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS4_OnFoot.tif": {
+            "hash": "05c9c2c470781c0c947fe710102fbcefc6d093ff", 
+            "installsize": 2097890, 
+            "manifest": [
+                "626928a83072d25f1e5cdb681e89ca84a6113c93 GameSDK/Assets/UI/Textures/PS4_OnFoot.tif"
+            ], 
+            "size": 221299, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS4_Vehicle.tif": {
+            "hash": "84bce28fbdb795d3794aba1c8c608d566634824c", 
+            "installsize": 2097890, 
+            "manifest": [
+                "1f4e65796d97502d17e8f2318092b80fed5383e3 GameSDK/Assets/UI/Textures/PS4_Vehicle.tif"
+            ], 
+            "size": 203199, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS_Button_Circle.tif": {
+            "hash": "2c4f5b3790406b76674c0b205c0945558ab639d7", 
+            "installsize": 8418, 
+            "manifest": [
+                "5cdd2a62ac2405bc7c12f0bea355319cc2e924f5 GameSDK/Assets/UI/Textures/PS_Button_Circle.tif"
+            ], 
+            "size": 3593, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS_Button_Select.tif": {
+            "hash": "66b563d54422c658fb7b5c2ef500e7c55279bc7e", 
+            "installsize": 16626, 
+            "manifest": [
+                "4f4183dcb63123b27fcc22d0918c39b94d4b17c4 GameSDK/Assets/UI/Textures/PS_Button_Select.tif"
+            ], 
+            "size": 952, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS_Button_Square.tif": {
+            "hash": "ffb9872807fc5834e3f7bde335c6160de29aa429", 
+            "installsize": 8418, 
+            "manifest": [
+                "49941e99ec884a648b39f98559835c870920fc5e GameSDK/Assets/UI/Textures/PS_Button_Square.tif"
+            ], 
+            "size": 1110, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS_Button_Start.tif": {
+            "hash": "902bc316171a1468e49abcc16263f06ba432081c", 
+            "installsize": 16626, 
+            "manifest": [
+                "a48d0a4f9411419372a773ace4794aacbb7cfb6d GameSDK/Assets/UI/Textures/PS_Button_Start.tif"
+            ], 
+            "size": 2442, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS_Button_Triangle.tif": {
+            "hash": "637ce72f8bef158733e53320995f367521d1042f", 
+            "installsize": 8418, 
+            "manifest": [
+                "03f86df9c399fd162eb09663bb3bed602cfb58b8 GameSDK/Assets/UI/Textures/PS_Button_Triangle.tif"
+            ], 
+            "size": 3335, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/PS_Button_X.tif": {
+            "hash": "dd89bfafd9542a9c93ba37a4019daadb2a1cd43c", 
+            "installsize": 8418, 
+            "manifest": [
+                "9c403619bf4ad39853f46e3a0ae3a8e0e1661ab6 GameSDK/Assets/UI/Textures/PS_Button_X.tif"
+            ], 
+            "size": 4217, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/SoftLeft.tif": {
+            "hash": "2a124f66f3d3be7fb84de87f186a10ac0d9978b9", 
+            "installsize": 1049058, 
+            "manifest": [
+                "3162e5719b7661a1c06cf3730039df93f5014945 GameSDK/Assets/UI/Textures/SoftLeft.tif"
+            ], 
+            "size": 12362, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/SoftRight.tif": {
+            "hash": "e0f03c56ebecc9e27aa9e11dac8b3624c68e2676", 
+            "installsize": 1049058, 
+            "manifest": [
+                "0608f50c0b9457c722aef2cba09c6bb4cf0720ab GameSDK/Assets/UI/Textures/SoftRight.tif"
+            ], 
+            "size": 12246, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Button_A.tif": {
+            "hash": "e4c3723e352ae7e3a77182b09153ae93c80ab2a4", 
+            "installsize": 16626, 
+            "manifest": [
+                "594a5221c365fe392eeebb205840eb8602c38f18 GameSDK/Assets/UI/Textures/Xbox_Button_A.tif"
+            ], 
+            "size": 5665, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Button_B.tif": {
+            "hash": "18ad91d26625fe36ea824968147dea69d94e11b7", 
+            "installsize": 16626, 
+            "manifest": [
+                "3c38ca285593ff9bd1f615bbacb5bf14470f751f GameSDK/Assets/UI/Textures/Xbox_Button_B.tif"
+            ], 
+            "size": 5374, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Button_Back.tif": {
+            "hash": "b77b9973a1bea766f10b5409362d312b227a08d0", 
+            "installsize": 16626, 
+            "manifest": [
+                "86cffd8e22949663fcc2cf039c38aae8704819a8 GameSDK/Assets/UI/Textures/Xbox_Button_Back.tif"
+            ], 
+            "size": 4952, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Button_Start.tif": {
+            "hash": "e3a0e04a1b21ff346db80bfe8b2687a3a2fc1f7c", 
+            "installsize": 16626, 
+            "manifest": [
+                "8a399c22a6239e4b4e7c2d256d5dd5f2d58a8243 GameSDK/Assets/UI/Textures/Xbox_Button_Start.tif"
+            ], 
+            "size": 4936, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Button_X.tif": {
+            "hash": "397d3c32a0278cf1111438c543defd448f621251", 
+            "installsize": 16626, 
+            "manifest": [
+                "889f1c593c5add06fee694f1def80dbeaf52202b GameSDK/Assets/UI/Textures/Xbox_Button_X.tif"
+            ], 
+            "size": 6797, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Button_Y.tif": {
+            "hash": "0597aa37a7c252f6f12922eb24d57f8652934ad3", 
+            "installsize": 16626, 
+            "manifest": [
+                "c7b77ad419e47863008c63fe1fbed79b146d129d GameSDK/Assets/UI/Textures/Xbox_Button_Y.tif"
+            ], 
+            "size": 6260, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_OnFoot.tif": {
+            "hash": "7fb90862965e3cea1b89f4de87a770c676868d4e", 
+            "installsize": 2097890, 
+            "manifest": [
+                "44ca9d6fca91a4486910b776e87ea9e4f1999311 GameSDK/Assets/UI/Textures/Xbox_OnFoot.tif"
+            ], 
+            "size": 222002, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/Xbox_Vehicle.tif": {
+            "hash": "e626eb9e4d13c1f922daf7ec64201b85d2b9db47", 
+            "installsize": 2097890, 
+            "manifest": [
+                "13d5fe8942d18db3791f4e2083dabb667945cce1 GameSDK/Assets/UI/Textures/Xbox_Vehicle.tif"
+            ], 
+            "size": 203291, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/background1.tif": {
+            "hash": "63b99e0a68ea8d55f6330bb79c480b052dd9ee6a", 
+            "installsize": 2097870, 
+            "manifest": [
+                "9acc37630461828794afa9ccb10e5e8a9ece1489 GameSDK/Assets/UI/Textures/background1.tif"
+            ], 
+            "size": 482578, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/background2.tif": {
+            "hash": "8e64c2827bd238d3b36f1b5bcae5ed9e13679346", 
+            "installsize": 2097870, 
+            "manifest": [
+                "d90ec68a5fb53a8418ffd2bf3099c70576a2ddc8 GameSDK/Assets/UI/Textures/background2.tif"
+            ], 
+            "size": 370789, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/background3.tif": {
+            "hash": "7087bb0f96b2cd5d7b4140cb03cbe7f611e8c77f", 
+            "installsize": 2097870, 
+            "manifest": [
+                "885660327af1a26088cd6deec584fb797640d7f3 GameSDK/Assets/UI/Textures/background3.tif"
+            ], 
+            "size": 438584, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/background4.tif": {
+            "hash": "5cd12de49b87be7f9b3b99b6672cfb5e7415bb34", 
+            "installsize": 2097870, 
+            "manifest": [
+                "b81739477c01368e0bc65eee94ff06afd3b5ba60 GameSDK/Assets/UI/Textures/background4.tif"
+            ], 
+            "size": 512773, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/background5.tif": {
+            "hash": "e65091aa9721ece6133351b41c3e2018b165d6f5", 
+            "installsize": 2097870, 
+            "manifest": [
+                "df3c9655aa39325fc9c97e309b9cf95542b77550 GameSDK/Assets/UI/Textures/background5.tif"
+            ], 
+            "size": 438460, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/background6.tif": {
+            "hash": "f2547a4068d5f62e4702fc431785f80e93eb6a59", 
+            "installsize": 2097870, 
+            "manifest": [
+                "09f67e428b08b84a29026c419abe3960fa7dd2ee GameSDK/Assets/UI/Textures/background6.tif"
+            ], 
+            "size": 438405, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/bumpSign.tif": {
+            "hash": "61304b668c174a9aaae09bdcaff51f90d77ae0a7", 
+            "installsize": 1049058, 
+            "manifest": [
+                "51d237c515937423199442e7ae8efadfad0df7b2 GameSDK/Assets/UI/Textures/bumpSign.tif"
+            ], 
+            "size": 12282, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/computer_key_Enter.tif": {
+            "hash": "9b62984a26c3167e9af99e1221c77dce86cf64ab", 
+            "installsize": 524642, 
+            "manifest": [
+                "d1a811d55ca6465d701b24c383f4621f10b35211 GameSDK/Assets/UI/Textures/computer_key_Enter.tif"
+            ], 
+            "size": 25739, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/game_prematch_text.tif": {
+            "hash": "c5386627eb05758a070fc3c326e5b6580ee7a47a", 
+            "installsize": 8400284, 
+            "manifest": [
+                "3d2f3545d4dc408ef499d5640cedce452be256aa GameSDK/Assets/UI/Textures/game_prematch_text.tif"
+            ], 
+            "size": 30205, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/game_round_start_text.tif": {
+            "hash": "441e7536d1adf4fb8879f390c4fe3f7bbec0ec6a", 
+            "installsize": 8400284, 
+            "manifest": [
+                "dd520bb2cbc9fb5245eb03b1912eb36c83a63315 GameSDK/Assets/UI/Textures/game_round_start_text.tif"
+            ], 
+            "size": 24851, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/Textures/startscreen.tif": {
+            "hash": "25ebc5e34e31c38743c2c17216aae4cb06b5f5e9", 
+            "installsize": 6312736, 
+            "manifest": [
+                "58e15c841d9c5bd66fa42c302c1fd436fce4d17b GameSDK/Assets/UI/Textures/startscreen.tif"
+            ], 
+            "size": 18234, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/Demo_HUD.xml": {
+            "hash": "aef451a5a80da41e1194bb902052e8594ff6724c", 
+            "installsize": 1227, 
+            "manifest": [
+                "d2c962493af43ead66ede19c8b254e6cd4ce32b3 GameSDK/Assets/UI/UIActions/Demo_HUD.xml"
+            ], 
+            "size": 886, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/Demo_HUD_Hide.xml": {
+            "hash": "63031f9958ed15cd73f211cd9f9d8eb383042b65", 
+            "installsize": 693, 
+            "manifest": [
+                "090c56561754ed04d36280320a4b9f5a4d07f16b GameSDK/Assets/UI/UIActions/Demo_HUD_Hide.xml"
+            ], 
+            "size": 692, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/DialogHandling.xml": {
+            "hash": "5c3cb7ebefacac045b8e91e325f42fa9d448259e", 
+            "installsize": 8409, 
+            "manifest": [
+                "570500f9cd563a0d7ec9cf475e085804b94c31a1 GameSDK/Assets/UI/UIActions/DialogHandling.xml"
+            ], 
+            "size": 1574, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/DisplayUseText.xml": {
+            "hash": "fa336fbd2f385c073e76d39e4b7197a17573cfa6", 
+            "installsize": 1576, 
+            "manifest": [
+                "a474d0b9ee71d97b7095eafba56ef6ad20585612 GameSDK/Assets/UI/UIActions/DisplayUseText.xml"
+            ], 
+            "size": 926, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/HUD.xml": {
+            "hash": "b30eea82a56283fe5dc9e06512cc245eea3bfad1", 
+            "installsize": 1476, 
+            "manifest": [
+                "99a174772f3b054a067ac7dea5c304a69acbd929 GameSDK/Assets/UI/UIActions/HUD.xml"
+            ], 
+            "size": 863, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/HUD_2D.xml": {
+            "hash": "d95ebc150656371703df2848bf416d31d7506119", 
+            "installsize": 10347, 
+            "manifest": [
+                "e9d67d5e99c5d10846827521f5ad683c0b0541f4 GameSDK/Assets/UI/UIActions/HUD_2D.xml"
+            ], 
+            "size": 2384, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/HUD_3D.xml": {
+            "hash": "b517e98351f2fd64587fb804fa5aba9f19c711ea", 
+            "installsize": 8520, 
+            "manifest": [
+                "2a79ce08a180b1196677e13cd4a335ca6e0db5d6 GameSDK/Assets/UI/UIActions/HUD_3D.xml"
+            ], 
+            "size": 2169, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/HUD_Message.xml": {
+            "hash": "57dfeba1368c250b21f0331d64841d69a1222377", 
+            "installsize": 1505, 
+            "manifest": [
+                "e3addabe3956efbc919a0ce380c001c48037fc57 GameSDK/Assets/UI/UIActions/HUD_Message.xml"
+            ], 
+            "size": 917, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/HUD_Radar.xml": {
+            "hash": "81a5a143120ccc74cc24b9dba3feb17d8f20dffb", 
+            "installsize": 11123, 
+            "manifest": [
+                "86f0c74dd8339f38b8fbc908a07fa04d5fc3fba4 GameSDK/Assets/UI/UIActions/HUD_Radar.xml"
+            ], 
+            "size": 2232, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/HUD_Unloading.xml": {
+            "hash": "6f6147637d785e1ddbeb87ce7b0fa1c7e7191513", 
+            "installsize": 1216, 
+            "manifest": [
+                "6f7b435b3550f774af3373569a7aba116b9ae0cc GameSDK/Assets/UI/UIActions/HUD_Unloading.xml"
+            ], 
+            "size": 819, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_Confirmation.xml": {
+            "hash": "ce39d301e599ee8b957b82f6a6b0333bcb2a03e3", 
+            "installsize": 1981, 
+            "manifest": [
+                "6625ce68bb3016dfdfa08558442f1d1495a9fbaa GameSDK/Assets/UI/UIActions/MM_Confirmation.xml"
+            ], 
+            "size": 1028, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_ConnectToServer.xml": {
+            "hash": "f147c3231f51effdba5ced9cac72e804338a2f74", 
+            "installsize": 2791, 
+            "manifest": [
+                "8e185bcffb1f899d44621535aa5d9e33a58f04b4 GameSDK/Assets/UI/UIActions/MM_ConnectToServer.xml"
+            ], 
+            "size": 1204, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_DefaultEvents.xml": {
+            "hash": "8a91b71b016aec56652683c1eb0f428c4c8a8d74", 
+            "installsize": 4389, 
+            "manifest": [
+                "de6b4444ea61ea0cf1e2ba19ba8d2aa05b2ed4fa GameSDK/Assets/UI/UIActions/MM_DefaultEvents.xml"
+            ], 
+            "size": 1479, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_DisplayIngameMenu.xml": {
+            "hash": "b27118f37d837e4acfe4510a979a2dc9ffa9495c", 
+            "installsize": 2353, 
+            "manifest": [
+                "7dc89dae00fc75a3de038d3e8f9728b1a1b4bee7 GameSDK/Assets/UI/UIActions/MM_DisplayIngameMenu.xml"
+            ], 
+            "size": 1208, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_DisplayLoadingScreen.xml": {
+            "hash": "707550ad02c2558fc371bc55c319474f7f91e657", 
+            "installsize": 2294, 
+            "manifest": [
+                "d0ecdc0fb4055f6a9de071110ee6def5d64b9421 GameSDK/Assets/UI/UIActions/MM_DisplayLoadingScreen.xml"
+            ], 
+            "size": 1158, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_DisplayMenu.xml": {
+            "hash": "962aade047d7b7a928be1b82a00bacd0bd82e37e", 
+            "installsize": 2365, 
+            "manifest": [
+                "fa05370ab52ef6c0d3f3997e416e47b3e5ea0637 GameSDK/Assets/UI/UIActions/MM_DisplayMenu.xml"
+            ], 
+            "size": 1205, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_DisplayMenuLoading.xml": {
+            "hash": "8646f4096df22d3d0106b1b747913f5e164b0b1a", 
+            "installsize": 2553, 
+            "manifest": [
+                "fe1c81b494d91003664a22a5a71a99fc8107e2b7 GameSDK/Assets/UI/UIActions/MM_DisplayMenuLoading.xml"
+            ], 
+            "size": 1246, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_GameSettings.xml": {
+            "hash": "4443bff5477b3198e11670882e15618411ff54e4", 
+            "installsize": 10820, 
+            "manifest": [
+                "c62597a9a5e0d1e24e9e835044bacd1dfe397743 GameSDK/Assets/UI/UIActions/MM_GameSettings.xml"
+            ], 
+            "size": 2248, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_GamepadLayout.xml": {
+            "hash": "a8006b5c753acde3e4d9639979da260fb59c8178", 
+            "installsize": 10585, 
+            "manifest": [
+                "18b1c89c2576ecc2faff09ad3add5ca3518109eb GameSDK/Assets/UI/UIActions/MM_GamepadLayout.xml"
+            ], 
+            "size": 2225, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_GraphicsSettings.xml": {
+            "hash": "c39d689d29ddaebff23a287220432876e13f35bc", 
+            "installsize": 13888, 
+            "manifest": [
+                "a8d6ded05267202de43bbf8f20014520b2452e03 GameSDK/Assets/UI/UIActions/MM_GraphicsSettings.xml"
+            ], 
+            "size": 2739, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_HostMP.xml": {
+            "hash": "4dd7642716f164562d48e95a3d6d71d0744d22b5", 
+            "installsize": 17606, 
+            "manifest": [
+                "fc4a9f407cdc63dff9fc6243223a388ea81a5f59 GameSDK/Assets/UI/UIActions/MM_HostMP.xml"
+            ], 
+            "size": 3488, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_HostMPCustomSettings.xml": {
+            "hash": "b57b49ddd144ba448a358636d2c384e86f59ed83", 
+            "installsize": 34614, 
+            "manifest": [
+                "30747770f85bb35274814871ed3137789d4a2e0b GameSDK/Assets/UI/UIActions/MM_HostMPCustomSettings.xml"
+            ], 
+            "size": 4420, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_IngameMenu.xml": {
+            "hash": "284a95cc5a071dc965f6c21e0e09f8fa5dd95688", 
+            "installsize": 13227, 
+            "manifest": [
+                "d09194f4b7919b51f4fd2b0eb54287e022c519b7 GameSDK/Assets/UI/UIActions/MM_IngameMenu.xml"
+            ], 
+            "size": 2687, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_JoinMP.xml": {
+            "hash": "92504dace02d81b3c80fa3605e1c006c7fa94234", 
+            "installsize": 12381, 
+            "manifest": [
+                "4c4244e2bb11c595a9300187b7dc4f7a8a185f50 GameSDK/Assets/UI/UIActions/MM_JoinMP.xml"
+            ], 
+            "size": 2656, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_Leaderboard.xml": {
+            "hash": "93f83123a0ea7a8d8aef5c7f915d3a852a3a55a8", 
+            "installsize": 4480, 
+            "manifest": [
+                "babc3fb3a09781756d947d261eb4880c0e12051f GameSDK/Assets/UI/UIActions/MM_Leaderboard.xml"
+            ], 
+            "size": 1495, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_LoadingScreen.xml": {
+            "hash": "26169979efa9eff05a7e2d103f463d1198df77d9", 
+            "installsize": 1886, 
+            "manifest": [
+                "47aec1be863f906d7d702a7c092b056f425bbf46 GameSDK/Assets/UI/UIActions/MM_LoadingScreen.xml"
+            ], 
+            "size": 1020, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_LobbyHost.xml": {
+            "hash": "257ea81b4554e9321b285aba928f3f8fe3f5dfe9", 
+            "installsize": 12502, 
+            "manifest": [
+                "7c87d9df0e444efb2cfdc7d99c38c0760f6fe47e GameSDK/Assets/UI/UIActions/MM_LobbyHost.xml"
+            ], 
+            "size": 2730, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_LobbyJoin.xml": {
+            "hash": "e1d7c527e1095e6547cab94030694f50b5b9810a", 
+            "installsize": 7025, 
+            "manifest": [
+                "af6068fab5b4465807befc41810cf1e13797ed06 GameSDK/Assets/UI/UIActions/MM_LobbyJoin.xml"
+            ], 
+            "size": 1851, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_Main.xml": {
+            "hash": "4e347217aeb28f3fb5d998f80a54de53f5bf45c6", 
+            "installsize": 13651, 
+            "manifest": [
+                "70c7e17968b40d675218ccc04ac0ff7014a3f38b GameSDK/Assets/UI/UIActions/MM_Main.xml"
+            ], 
+            "size": 2730, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_Multiplayer.xml": {
+            "hash": "ba6a2467643f8a088621b4f5da7697d336d03537", 
+            "installsize": 5511, 
+            "manifest": [
+                "ba59301e2b0b91bd843f4402d87308e34a9a1b25 GameSDK/Assets/UI/UIActions/MM_Multiplayer.xml"
+            ], 
+            "size": 1592, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_ProfileSettings.xml": {
+            "hash": "f9f08826948eea0335b9dd4cabe7827d04cc103a", 
+            "installsize": 8005, 
+            "manifest": [
+                "ffb8674480537adedab6759d565d962e5c8fd61b GameSDK/Assets/UI/UIActions/MM_ProfileSettings.xml"
+            ], 
+            "size": 2085, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_SetPlayerName.xml": {
+            "hash": "c4d21c42754d4b79b839ac989e152fbf651f3440", 
+            "installsize": 5574, 
+            "manifest": [
+                "2b2f7e1e8b43f3d5d0f34f30f0232c0d4e989118 GameSDK/Assets/UI/UIActions/MM_SetPlayerName.xml"
+            ], 
+            "size": 1587, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_SinglePlayer.xml": {
+            "hash": "c8314461a4ea70ee6d3b17da47f620b5d5d947b7", 
+            "installsize": 10392, 
+            "manifest": [
+                "993bd98d2ff8a613e9c2267d66e9edc46d2eeba2 GameSDK/Assets/UI/UIActions/MM_SinglePlayer.xml"
+            ], 
+            "size": 2383, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_SoundSettings.xml": {
+            "hash": "a07031186ae48a1dd143d818ac942aab09bd8051", 
+            "installsize": 9661, 
+            "manifest": [
+                "0f706f53fe72d5b6e3ad585b8206c0712b2b2530 GameSDK/Assets/UI/UIActions/MM_SoundSettings.xml"
+            ], 
+            "size": 2185, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_StereoSettings.xml": {
+            "hash": "7108ac281ab4c0951f0c72389c1f681af096a9e1", 
+            "installsize": 14428, 
+            "manifest": [
+                "f304b62b06aedec12b490e021b7b81cd1d4ffb9b GameSDK/Assets/UI/UIActions/MM_StereoSettings.xml"
+            ], 
+            "size": 2682, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_UserStats.xml": {
+            "hash": "f7acc19a1a48905f6278c3774b0e6194af254a49", 
+            "installsize": 3108, 
+            "manifest": [
+                "49bc86eb83b4ec348359dcb264cdb3818893a74f GameSDK/Assets/UI/UIActions/MM_UserStats.xml"
+            ], 
+            "size": 1240, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MM_WeaponCustomization.xml": {
+            "hash": "07b66f46bde4d6ab00f34dded8cba0873be1cfa5", 
+            "installsize": 13935, 
+            "manifest": [
+                "3d24d55ea665114bb3810c67afccf5ca4ca1a6d8 GameSDK/Assets/UI/UIActions/MM_WeaponCustomization.xml"
+            ], 
+            "size": 2658, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MP_PlayerNameTags.xml": {
+            "hash": "ff3ce5d8a52fd307f32d2a1716f3902c56e21a6a", 
+            "installsize": 4537, 
+            "manifest": [
+                "b881f1fcc3b65f71ea1fbb559394673579ce1aab GameSDK/Assets/UI/UIActions/MP_PlayerNameTags.xml"
+            ], 
+            "size": 1397, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/MP_Scoreboard.xml": {
+            "hash": "7cf38e74408ca6ddee535db8198041b45b3753d5", 
+            "installsize": 4022, 
+            "manifest": [
+                "acade493e9adb7e4a329cdfef02d02ee64ade4ec GameSDK/Assets/UI/UIActions/MP_Scoreboard.xml"
+            ], 
+            "size": 1405, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/SPMP_Notifications.xml": {
+            "hash": "7ed40e5f8c3ff80320008685848fb4929a3b1c7b", 
+            "installsize": 7136, 
+            "manifest": [
+                "9e1700e5aaf906f033a099ef2a17263829ca204a GameSDK/Assets/UI/UIActions/SPMP_Notifications.xml"
+            ], 
+            "size": 1826, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/SP_Objectives.xml": {
+            "hash": "c1fa727d1c67dedff5b6012f73cb76e46047f19d", 
+            "installsize": 35216, 
+            "manifest": [
+                "36f07dac1dd0e8afa435ff3cde462ab0e5404f87 GameSDK/Assets/UI/UIActions/SP_Objectives.xml"
+            ], 
+            "size": 4764, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIActions/Sys_StateControl.xml": {
+            "hash": "6136e701a8d18827d739413cf1942c0b1807a459", 
+            "installsize": 17770, 
+            "manifest": [
+                "c508f3534053df933bde07bcb93d7c60d2cf97d5 GameSDK/Assets/UI/UIActions/Sys_StateControl.xml"
+            ], 
+            "size": 3122, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/Demo_Speedo.xml": {
+            "hash": "bd90d941bfca883a1b74b11ac34f4cf9a0a8a2a7", 
+            "installsize": 1171, 
+            "manifest": [
+                "6e9e2d11aaef615a233af140d8dbe81d8e0716ae GameSDK/Assets/UI/UIElements/Demo_Speedo.xml"
+            ], 
+            "size": 834, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/Dialogs.xml": {
+            "hash": "20366ab5f5ce25a228e5ce282d1b42e76f2ee070", 
+            "installsize": 1553, 
+            "manifest": [
+                "a94c0e00ca5f08702467618e1d6c2f1d40bc697c GameSDK/Assets/UI/UIElements/Dialogs.xml"
+            ], 
+            "size": 897, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/EntityFlashTag.xml": {
+            "hash": "7e81f9d5ba6b75030c4a04cd95d299de7da73118", 
+            "installsize": 224, 
+            "manifest": [
+                "043dd39fa17a4e5a7494e4fd6000550c69753556 GameSDK/Assets/UI/UIElements/EntityFlashTag.xml"
+            ], 
+            "size": 492, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/HUD.xml": {
+            "hash": "655a559c5dadb92d36225d0228bdcbb877e6a4c2", 
+            "installsize": 7007, 
+            "manifest": [
+                "793665a9fd12dc1fe1945ad3e54b1e9d30621356 GameSDK/Assets/UI/UIElements/HUD.xml"
+            ], 
+            "size": 1788, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/MainMenu.xml": {
+            "hash": "4bb3c946bada172997c47f410e09aef5b50915ef", 
+            "installsize": 14333, 
+            "manifest": [
+                "330daf3eef3091f56cee9efe1acf0be3694ba38f GameSDK/Assets/UI/UIElements/MainMenu.xml"
+            ], 
+            "size": 2666, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/USMPlayer.xml": {
+            "hash": "e6a3b4c709b71eb337991892fe50aa867d6ba429", 
+            "installsize": 2166, 
+            "manifest": [
+                "aa73b462333964c04cf689ab2808abd118cfb1f1 GameSDK/Assets/UI/UIElements/USMPlayer.xml"
+            ], 
+            "size": 977, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/UIElements/crosshair.xml": {
+            "hash": "6e2c38fe43497d1e13103f0eb5e8fca49a5a111a", 
+            "installsize": 458, 
+            "manifest": [
+                "2596705f7a96e625f164fb63296984d69e47cde2 GameSDK/Assets/UI/UIElements/crosshair.xml"
+            ], 
+            "size": 611, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/USM_Player.gfx": {
+            "hash": "ec3d59f14ff81763b150539abf58dba0bde6cb60", 
+            "installsize": 3846, 
+            "manifest": [
+                "c21eb346baade5cc0db80fa896ba7b74b5d53c24 GameSDK/Assets/UI/USM_Player.gfx"
+            ], 
+            "size": 2091, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/USM_Player_Intro.gfx": {
+            "hash": "430d221932279b8b5ba0384b880265ee230f9a7c", 
+            "installsize": 19017, 
+            "manifest": [
+                "cd4e9532d8f9d44ef03b7c04cb0627d6a0b1e770 GameSDK/Assets/UI/USM_Player_Intro.gfx"
+            ], 
+            "size": 19381, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/crosshair.gfx": {
+            "hash": "071e732983a6fab3e337be172f738945d7d0792e", 
+            "installsize": 7448, 
+            "manifest": [
+                "c70f22ffbc0ab308a36c3484c473187a65f7b482 GameSDK/Assets/UI/crosshair.gfx"
+            ], 
+            "size": 5353, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/crosshair.swf": {
+            "hash": "79996555caf471c67dfedc3e617530d16b1d6d4d", 
+            "installsize": 4991, 
+            "manifest": [
+                "40b23a98e0c354086424b98fefd8ee7fba666ed7 GameSDK/Assets/UI/crosshair.swf"
+            ], 
+            "size": 5343, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/UI/ime.dat": {
+            "hash": "47cc679fc1ef582a4fa261854b89d845a9ceaa03", 
+            "installsize": 10385, 
+            "manifest": [
+                "938cec5d283f4cc6586902c1cb2849fc2dcdd42a GameSDK/Assets/UI/ime.dat"
+            ], 
+            "size": 1802, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/_fastload/intromovies.pak": {
+            "hash": "dd1794d9e027b553f329be67e48598cbb305ec52", 
+            "installsize": 10629415, 
+            "manifest": [
+                "6dae9449ae595105d6058aeee952b6baea716aef GameSDK/Assets/_fastload/intromovies.pak"
+            ], 
+            "size": 10000339, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/animations.pak": {
+            "hash": "ecd99293d416301b31430bff35592dc29cc551f8", 
+            "installsize": 18662237, 
+            "manifest": [
+                "ccfdd28a8a471536a2f85142397eba0bf80c335c GameSDK/Assets/animations.pak"
+            ], 
+            "size": 18442205, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/audio.pak": {
+            "hash": "bb75029e99fa7a48a9587cbd5356c6a546661ae1", 
+            "installsize": 153504082, 
+            "manifest": [
+                "972fbe4bfccd9f3aa48570929e023ee4d19b4f4b GameSDK/Assets/audio.pak"
+            ], 
+            "size": 145388968, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/game.cfg": {
+            "hash": "c2fd7443c78cd1108fb1a0fc1cf9f7edb3844fc6", 
+            "installsize": 128, 
+            "manifest": [
+                "a32300a48166e43e66defabb68286fcb41038766 GameSDK/Assets/game.cfg"
+            ], 
+            "size": 436, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/gamedata.pak": {
+            "hash": "1f5044fc655d2a356607e206a4a0956d57f91e66", 
+            "installsize": 15519517, 
+            "manifest": [
+                "018eae5f22c65801f6827a05ede57d1b31956394 GameSDK/Assets/gamedata.pak"
+            ], 
+            "size": 2682142, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/geomcaches.pak": {
+            "hash": "548c4fbd6ae100c7e41e98db8665d76a947b125c", 
+            "installsize": 22523765, 
+            "manifest": [
+                "531ac4bd161e73290c1afe01b5e4c5a135317786 GameSDK/Assets/geomcaches.pak"
+            ], 
+            "size": 22471401, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levelrotation.xml": {
+            "hash": "2e1a7b039fbc3c043ad839652ea25529bbb6f631", 
+            "installsize": 108, 
+            "manifest": [
+                "c48a933f7c92f2249417315def800f3c2a7611ba GameSDK/Assets/levelrotation.xml"
+            ], 
+            "size": 434, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/airfield.cry": {
+            "hash": "1061b5eb490d1ab17a413c405abbde7e09d3db84", 
+            "installsize": 1328, 
+            "manifest": [
+                "75db5d291015936d77c167ada87d745ef17c77fe GameSDK/Assets/levels/multiplayer/airfield/airfield.cry"
+            ], 
+            "size": 1695, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/airfield.dds": {
+            "hash": "a3c00e2144a1225f34c3be52c3651c0f5bc029a4", 
+            "installsize": 524416, 
+            "manifest": [
+                "0c109ab4d53fd0611bceb169480cb3525d970849 GameSDK/Assets/levels/multiplayer/airfield/airfield.dds"
+            ], 
+            "size": 318280, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/airfield.xml": {
+            "hash": "518022fb83a0ef27bf0249993d4e1ef7cc18ef3f", 
+            "installsize": 412, 
+            "manifest": [
+                "5b382e9421e40a6124c6b4f3244194a89a4c1ca9 GameSDK/Assets/levels/multiplayer/airfield/airfield.xml"
+            ], 
+            "size": 616, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/filelist.xml": {
+            "hash": "4027ddd325ee2459daac90a523a0fd04ce0eb37f", 
+            "installsize": 425, 
+            "manifest": [
+                "02438f35f880ec7916ed69931027d92e6fa6e414 GameSDK/Assets/levels/multiplayer/airfield/filelist.xml"
+            ], 
+            "size": 594, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/airfield.lyr": {
+            "hash": "1a1c751723c064929ae8d05506e63616d10f7cd3", 
+            "installsize": 2345623, 
+            "manifest": [
+                "eca11a738dac813d5c95812e7bef43c0783637fe GameSDK/Assets/levels/multiplayer/airfield/layers/airfield.lyr"
+            ], 
+            "size": 146868, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/audio.lyr": {
+            "hash": "e2e5af25209dea8f89c535fcc2cdf862b0001649", 
+            "installsize": 31579, 
+            "manifest": [
+                "844bd69eb1a0a80c3df2c2bfd900e90c5b0806b4 GameSDK/Assets/levels/multiplayer/airfield/layers/audio.lyr"
+            ], 
+            "size": 4299, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/designer.lyr": {
+            "hash": "cdd801c0bed74d10b327ceaab9abb4c4e08b2708", 
+            "installsize": 56296, 
+            "manifest": [
+                "81f1224fb44f639d4e5188c95849383c666718f5 GameSDK/Assets/levels/multiplayer/airfield/layers/designer.lyr"
+            ], 
+            "size": 9354, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/gameplay/gameplay_assets.lyr": {
+            "hash": "18ecd7604e905ded4fa7de1c6734d3c48efb8921", 
+            "installsize": 50809, 
+            "manifest": [
+                "cc6ad04384112c814f18f96e56ecc860515a0e23 GameSDK/Assets/levels/multiplayer/airfield/layers/gameplay/gameplay_assets.lyr"
+            ], 
+            "size": 6213, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/gameplay/gametype_instantaction.lyr": {
+            "hash": "23cff604a057b3098ecf7e6e2a8fc02f1956c28d", 
+            "installsize": 4805, 
+            "manifest": [
+                "ef5a112fff6dfdd889166851c128b9d5a294b062 GameSDK/Assets/levels/multiplayer/airfield/layers/gameplay/gametype_instantaction.lyr"
+            ], 
+            "size": 1323, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/gameplay/gametype_teaminstantaction.lyr": {
+            "hash": "d8bbbc6ae8ce9e9d156f081da5775d5d8b9d9afe", 
+            "installsize": 23126, 
+            "manifest": [
+                "fcb7e2fa50c00c6d39dd7b6f691af5e85af8fa46 GameSDK/Assets/levels/multiplayer/airfield/layers/gameplay/gametype_teaminstantaction.lyr"
+            ], 
+            "size": 2505, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/lighting.lyr": {
+            "hash": "3e748701511d6ee7cdfc376daaf1f09b8cddafe9", 
+            "installsize": 60516, 
+            "manifest": [
+                "9ee98a88880a9b63d79f61c2b43f2a36036386b1 GameSDK/Assets/levels/multiplayer/airfield/layers/lighting.lyr"
+            ], 
+            "size": 6066, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/main.lyr": {
+            "hash": "0975ff33c22f5cfd652b3810d60f4236a564614d", 
+            "installsize": 187, 
+            "manifest": [
+                "63449d4ca736bde434e069cfd73b88a0cc9a65b6 GameSDK/Assets/levels/multiplayer/airfield/layers/main.lyr"
+            ], 
+            "size": 512, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/multiplayer_ai.lyr": {
+            "hash": "99d6bb3a5e19a602f075f642a844e82a1c962ab1", 
+            "installsize": 14264, 
+            "manifest": [
+                "81dfec83e18c9cb141b6d6dff1135e86a069ad72 GameSDK/Assets/levels/multiplayer/airfield/layers/multiplayer_ai.lyr"
+            ], 
+            "size": 1942, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/layers/rocks.lyr": {
+            "hash": "3cd411e6183ef527e4ac3c9d4bb2e0948c8875ac", 
+            "installsize": 535832, 
+            "manifest": [
+                "c283e322e42a0debc7e022eac10d9d03f288f429 GameSDK/Assets/levels/multiplayer/airfield/layers/rocks.lyr"
+            ], 
+            "size": 30291, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/level.cfg": {
+            "hash": "fe08a640f38f85746b0e1bdaa0bca56601babb12", 
+            "installsize": 86, 
+            "manifest": [
+                "b5a4038b2d5e8ecf0f49394f21283f5d89a73d96 GameSDK/Assets/levels/multiplayer/airfield/level.cfg"
+            ], 
+            "size": 432, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/level.pak": {
+            "hash": "2915d97390f6cb8bd2ebaef0b766fa0865edacbf", 
+            "installsize": 10125881, 
+            "manifest": [
+                "d07fd149acc3bc307f475946f902c45abcbdf037 GameSDK/Assets/levels/multiplayer/airfield/level.pak"
+            ], 
+            "size": 3306348, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/designermeshes.dat": {
+            "hash": "b9240994ded926218af1f910316d462cb4f8e149", 
+            "installsize": 13576, 
+            "manifest": [
+                "94c9c0799d63afcbb4eaf869375c61a3c66ce555 GameSDK/Assets/levels/multiplayer/airfield/leveldata/designermeshes.dat"
+            ], 
+            "size": 2662, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/designerobjects.dat": {
+            "hash": "7d23119420d0dff304facdf1a882ef33207dc5b5", 
+            "installsize": 16020, 
+            "manifest": [
+                "102ed423cb3750b86c20b8fee265243c857c9606 GameSDK/Assets/levels/multiplayer/airfield/leveldata/designerobjects.dat"
+            ], 
+            "size": 2406, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/environment.xml": {
+            "hash": "c0fea6a5c5b9f25453568e02f7b2cae48fdd9a19", 
+            "installsize": 2358, 
+            "manifest": [
+                "8a0905efa21d0bb354f00114d110cdd1ad5bc337 GameSDK/Assets/levels/multiplayer/airfield/leveldata/environment.xml"
+            ], 
+            "size": 1475, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/gametokens.xml": {
+            "hash": "9d37ec31815cb2bc75a59341c8b56898893b7437", 
+            "installsize": 214, 
+            "manifest": [
+                "b7c1c231d6ca1629f2e07343e44f019639e3acc5 GameSDK/Assets/levels/multiplayer/airfield/leveldata/gametokens.xml"
+            ], 
+            "size": 504, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/heightmap.dat": {
+            "hash": "9f69ddf384821298a7b462371ee2f3bd1cea7b25", 
+            "installsize": 13979635, 
+            "manifest": [
+                "a33d99a529faac1e489b9d1c42e043c368e62c37 GameSDK/Assets/levels/multiplayer/airfield/leveldata/heightmap.dat"
+            ], 
+            "size": 867163, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/terraintexture.xml": {
+            "hash": "761222b7334c21c1843a7615ab8bee706676f956", 
+            "installsize": 688, 
+            "manifest": [
+                "6df232d51c23ba2703559c414943f57ee980dbe2 GameSDK/Assets/levels/multiplayer/airfield/leveldata/terraintexture.xml"
+            ], 
+            "size": 554, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/timeofday.xml": {
+            "hash": "3eca0f14c32da9e91e07eff95a9ad18b186f9236", 
+            "installsize": 177, 
+            "manifest": [
+                "5dac69346f9e18f9e0c681a01b09a07a63f1288b GameSDK/Assets/levels/multiplayer/airfield/leveldata/timeofday.xml"
+            ], 
+            "size": 495, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/leveldata/vegetationmap.dat": {
+            "hash": "cf1238ac7b3db1b0961357aa659edcd0ab5ff129", 
+            "installsize": 5158105, 
+            "manifest": [
+                "47b225632f1b80f002e6fc2169144167df9f9122 GameSDK/Assets/levels/multiplayer/airfield/leveldata/vegetationmap.dat"
+            ], 
+            "size": 1800323, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/loadingairfield.dds": {
+            "hash": "1497694753b295a1a19ea2e4769df68cc91e844c", 
+            "installsize": 262272, 
+            "manifest": [
+                "61b1ab108b3455a0f850187e3c3325add0435023 GameSDK/Assets/levels/multiplayer/airfield/loadingairfield.dds"
+            ], 
+            "size": 129986, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/tags.txt": {
+            "hash": "4da3f5d913e80d5ab01e3474688c038ab067521c", 
+            "installsize": 763, 
+            "manifest": [
+                "e640acf7ecb6aafb603e10b329679ef38aab9758 GameSDK/Assets/levels/multiplayer/airfield/tags.txt"
+            ], 
+            "size": 717, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/terraintexture.pak": {
+            "hash": "df3d034a13418904f4cc8ce650912cfc331c5221", 
+            "installsize": 59081, 
+            "manifest": [
+                "52f603dbb9913584f480894974deac29e5368d49 GameSDK/Assets/levels/multiplayer/airfield/terraintexture.pak"
+            ], 
+            "size": 51515, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/multiplayer/airfield/timedemo.tmd": {
+            "hash": "58aee26c0c640851b57b94dde31afe6381eedc80", 
+            "installsize": 661057, 
+            "manifest": [
+                "902dc96cfb10b26642a3b3362c6acb7b272d5f55 GameSDK/Assets/levels/multiplayer/airfield/timedemo.tmd"
+            ], 
+            "size": 648121, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/filelist.xml": {
+            "hash": "5b78d738cb42412aa42076fb3bb3181b5bbde867", 
+            "installsize": 219, 
+            "manifest": [
+                "d560f507d17dd6017045829d37eb0447e44103bc GameSDK/Assets/levels/singleplayer/vr_demo/filelist.xml"
+            ], 
+            "size": 518, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/lights.lyr": {
+            "hash": "703b16f49ff1e744dda5e8f680e27248fa09ad28", 
+            "installsize": 35528, 
+            "manifest": [
+                "9d6d6ac15fddaf1fc3ac9dfa3b692565ac05f27c GameSDK/Assets/levels/singleplayer/vr_demo/layers/lights.lyr"
+            ], 
+            "size": 2513, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/probes.lyr": {
+            "hash": "f4cd9cd3c1b301fedea8c0c89edd118fef241290", 
+            "installsize": 2752, 
+            "manifest": [
+                "fd1d5cb1039e2c2144070c87ad8f6de8934e4f80 GameSDK/Assets/levels/singleplayer/vr_demo/layers/probes.lyr"
+            ], 
+            "size": 1236, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/audio.lyr": {
+            "hash": "0b12a68f9034bfcc4777a77ab605a8c5d3c6cf51", 
+            "installsize": 17036, 
+            "manifest": [
+                "6ee132e840ce929ba5c3fe2bad37c5e70887a91b GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/audio.lyr"
+            ], 
+            "size": 2423, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/decals.lyr": {
+            "hash": "3fa7ba8e250a0e99b4b6bcb201c2851df0ea9884", 
+            "installsize": 16476, 
+            "manifest": [
+                "7adc812fab794b87a18167b19de10874b5225f76 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/decals.lyr"
+            ], 
+            "size": 2558, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/fence.lyr": {
+            "hash": "5078fb015fed32a9a6d2c38d598a3fe5c171bbb5", 
+            "installsize": 2969, 
+            "manifest": [
+                "3a36a5dbdf1632771015ef18854c384b38eed24b GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/fence.lyr"
+            ], 
+            "size": 1114, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/flares.lyr": {
+            "hash": "76bdcc5d0533fdb9c35cb75055f66111efe8b793", 
+            "installsize": 19400, 
+            "manifest": [
+                "707cd266bcdbd0ce96e72f7010790f604e9519da GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/flares.lyr"
+            ], 
+            "size": 1964, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/lights.lyr": {
+            "hash": "6156f925f86a889675ae7a65e1bf701791c4d698", 
+            "installsize": 41225, 
+            "manifest": [
+                "5dd0aa2c1e2fb11ed21114e1fec20e1c3f3f8c07 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/lights.lyr"
+            ], 
+            "size": 2941, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/no_stream.lyr": {
+            "hash": "86b3090027d62cda8a1ff7f43f4a6b5168b38e5a", 
+            "installsize": 83650, 
+            "manifest": [
+                "32fe124125bb4f8639006365e4edc10186a6555c GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/no_stream.lyr"
+            ], 
+            "size": 13443, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/particles.lyr": {
+            "hash": "11aadfac001e965a6751fbdd5053fc63efe2ddc1", 
+            "installsize": 23517, 
+            "manifest": [
+                "44daff874405324e97280f1733d9b40ae5c3b022 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/particles.lyr"
+            ], 
+            "size": 2049, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/physics.lyr": {
+            "hash": "aee69a7020195f63fe47251cd8f4c82979d441b4", 
+            "installsize": 12683, 
+            "manifest": [
+                "17e4b9aaa50a8834a20ca7fa2da7e2fc45daff70 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/physics.lyr"
+            ], 
+            "size": 2232, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/player_collisions_vr.lyr": {
+            "hash": "0447a681a2526734532254bfedbb582dea3a5f59", 
+            "installsize": 120936, 
+            "manifest": [
+                "fb4c478891e8882be6e98d12e84bcb495837ffd2 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/player_collisions_vr.lyr"
+            ], 
+            "size": 15278, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/probes.lyr": {
+            "hash": "291cc5a8dd7606c6cdbfa320e5ebb7fd2e284f5b", 
+            "installsize": 8177, 
+            "manifest": [
+                "f3d622d0f08ddd27110859e447a1f76a55cd03b6 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/probes.lyr"
+            ], 
+            "size": 1579, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/room_01_assets.lyr": {
+            "hash": "d92cef73857cd070e5b78d7eacdef465e3919941", 
+            "installsize": 71595, 
+            "manifest": [
+                "a3053a89859c716d3b2261b916e8e049a675314c GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/room_01_assets.lyr"
+            ], 
+            "size": 8823, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/vegetation.lyr": {
+            "hash": "00164c5975ead96e87c1e8b08b42a1da0c365e03", 
+            "installsize": 35268, 
+            "manifest": [
+                "b4d188fcec74ad550d9e8ea9a1374777c66a2d46 GameSDK/Assets/levels/singleplayer/vr_demo/layers/room_01/vegetation.lyr"
+            ], 
+            "size": 3065, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/layers/vegetation.lyr": {
+            "hash": "11fe28cd1a1fb0f193d663db72ca19cd230ffe6f", 
+            "installsize": 14898, 
+            "manifest": [
+                "961a3e775b74e5a401ac248b857982179e9111e6 GameSDK/Assets/levels/singleplayer/vr_demo/layers/vegetation.lyr"
+            ], 
+            "size": 1581, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/level.pak": {
+            "hash": "ecdaf03af1ca5d714bcb9278430f08616e82dd3f", 
+            "installsize": 142101, 
+            "manifest": [
+                "913ff9ee5564b8309b52b7d88bbd9ccea0e58c14 GameSDK/Assets/levels/singleplayer/vr_demo/level.pak"
+            ], 
+            "size": 60501, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/environment.xml": {
+            "hash": "8ed501569dfd3244c1d23ec032350b3430aca41a", 
+            "installsize": 2388, 
+            "manifest": [
+                "80c94d5cb0ccb6e62f9b1e9fe1cf0adadc1439ff GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/environment.xml"
+            ], 
+            "size": 1468, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/gametokens.xml": {
+            "hash": "88fb64431d821f073ce21136f368045213846894", 
+            "installsize": 106, 
+            "manifest": [
+                "2753a86cf5e50450b8142ed2f1d777f4be819adc GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/gametokens.xml"
+            ], 
+            "size": 433, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/heightmap.dat": {
+            "hash": "5c1bee3c9869e88f41fe9a28e921045f31eed764", 
+            "installsize": 66654, 
+            "manifest": [
+                "0f955fa497d8c4804b985208cd09c8e53cbe3768 GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/heightmap.dat"
+            ], 
+            "size": 2069, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/terraintexture.xml": {
+            "hash": "115a62b4f6764fba96538e79b7d6c1432e6d3366", 
+            "installsize": 171, 
+            "manifest": [
+                "31121d1506eb5077242f881ba89ecaaf10698cdc GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/terraintexture.xml"
+            ], 
+            "size": 488, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/timeofday.xml": {
+            "hash": "e358fceefefa4696b5b6cc2c20ac497fbdf2e8b9", 
+            "installsize": 173, 
+            "manifest": [
+                "38599d7d8f7c645f01ae2762c3e6c4c2292f1388 GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/timeofday.xml"
+            ], 
+            "size": 494, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/vegetationmap.dat": {
+            "hash": "6b48023c1c3d9c0abb014a240448e36a819adf7d", 
+            "installsize": 1184, 
+            "manifest": [
+                "168940cda81f7230de6badbcfa0c661beff64207 GameSDK/Assets/levels/singleplayer/vr_demo/leveldata/vegetationmap.dat"
+            ], 
+            "size": 1029, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/tags.txt": {
+            "hash": "2772b3b5aa54462561759308def0efa93b485cd8", 
+            "installsize": 664, 
+            "manifest": [
+                "e80ac2566adf29c5a79604ca5e304947866ec3e5 GameSDK/Assets/levels/singleplayer/vr_demo/tags.txt"
+            ], 
+            "size": 427, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/terraintexture.pak": {
+            "hash": "37da6ca0078c5d3828f582d5aaa210c3c80c7262", 
+            "installsize": 162, 
+            "manifest": [
+                "1af440743487c4985db24e6c093eabf928ef1f10 GameSDK/Assets/levels/singleplayer/vr_demo/terraintexture.pak"
+            ], 
+            "size": 393, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/vr_demo/vr_demo.cry": {
+            "hash": "f937acbae38b39468821106c9990be01a5b01aef", 
+            "installsize": 1850, 
+            "manifest": [
+                "004a7abc0f5efd1c9aae48862e29ea59ecb3fc85 GameSDK/Assets/levels/singleplayer/vr_demo/vr_demo.cry"
+            ], 
+            "size": 2218, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/filelist.xml": {
+            "hash": "7fe74e21a131f822ff9c8ee7e11ff81ad1bcd08d", 
+            "installsize": 322, 
+            "manifest": [
+                "ad297916d0a06027beb96cb224558fe506be9eee GameSDK/Assets/levels/singleplayer/woodland/filelist.xml"
+            ], 
+            "size": 556, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab01/ab01_gameplay.lyr": {
+            "hash": "e513e8c0b3037cb0558ed9b467acfbb05e2dd41a", 
+            "installsize": 58869, 
+            "manifest": [
+                "0adfaffd40122f95a5f420bb99cc4ff541d9a275 GameSDK/Assets/levels/singleplayer/woodland/layers/ab01/ab01_gameplay.lyr"
+            ], 
+            "size": 9728, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab01/ab01_objects.lyr": {
+            "hash": "562c357916d917893195ab44c00fc288c811e50c", 
+            "installsize": 391215, 
+            "manifest": [
+                "eef261d6784921e92a1ebfd489652cb55f59fb1d GameSDK/Assets/levels/singleplayer/woodland/layers/ab01/ab01_objects.lyr"
+            ], 
+            "size": 33883, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab01/ab01_pfx.lyr": {
+            "hash": "95f63a24edb77b50be53fbd72c46130871fc3da2", 
+            "installsize": 45943, 
+            "manifest": [
+                "76895677c7ce697d7242d67e7313e60a0aeea8a6 GameSDK/Assets/levels/singleplayer/woodland/layers/ab01/ab01_pfx.lyr"
+            ], 
+            "size": 4084, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab02/ab02_gameplay.lyr": {
+            "hash": "8131d8bf1f22e8b9da784098b24f5b56c0240118", 
+            "installsize": 8833, 
+            "manifest": [
+                "9b75af17209324a81de45cbc9e6d43ea365e8d78 GameSDK/Assets/levels/singleplayer/woodland/layers/ab02/ab02_gameplay.lyr"
+            ], 
+            "size": 2152, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab02/ab02_objects.lyr": {
+            "hash": "bedeef18fd443f38d6f5687a12e4fb0f3ba1db73", 
+            "installsize": 70669, 
+            "manifest": [
+                "33e52315b8cee0cba3ef698bcaa05340a389aa93 GameSDK/Assets/levels/singleplayer/woodland/layers/ab02/ab02_objects.lyr"
+            ], 
+            "size": 6619, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab02/ab02_pfx.lyr": {
+            "hash": "29cd62cb2c1ba573297851abe3a7e98bdc51b64b", 
+            "installsize": 6254, 
+            "manifest": [
+                "2ff8902a57ea6289dbb67abd79f4780f53b6377c GameSDK/Assets/levels/singleplayer/woodland/layers/ab02/ab02_pfx.lyr"
+            ], 
+            "size": 1424, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab03/ab03_gameplay.lyr": {
+            "hash": "013ddf8e5f46f53baa4cc52de35042f8d0e77ef1", 
+            "installsize": 16422, 
+            "manifest": [
+                "1a37a62cc4fe6b6b93c1a8ea0cc10d93c0adffe6 GameSDK/Assets/levels/singleplayer/woodland/layers/ab03/ab03_gameplay.lyr"
+            ], 
+            "size": 3223, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab03/ab03_objects.lyr": {
+            "hash": "375b0343175890a6287b221a13a8c21a39d6755a", 
+            "installsize": 130592, 
+            "manifest": [
+                "54cd5ebdd4178956e8d2142e322fb76453e3cd0e GameSDK/Assets/levels/singleplayer/woodland/layers/ab03/ab03_objects.lyr"
+            ], 
+            "size": 12061, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab03/ab03_pfx.lyr": {
+            "hash": "7de384089f0d6fe98c76401d8ec324bcf5950ac1", 
+            "installsize": 13196, 
+            "manifest": [
+                "8ac3fa5f7f78eecd970212f5a3bd360ed8f4b6a9 GameSDK/Assets/levels/singleplayer/woodland/layers/ab03/ab03_pfx.lyr"
+            ], 
+            "size": 1831, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab04/ab04_gameplay.lyr": {
+            "hash": "60ddc3dc0bbe612443fce4832a98fb1b22357d26", 
+            "installsize": 18636, 
+            "manifest": [
+                "58fef0c8fdc9eb2c86f9c68167ba8c4b3060f410 GameSDK/Assets/levels/singleplayer/woodland/layers/ab04/ab04_gameplay.lyr"
+            ], 
+            "size": 3959, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab04/ab04_objects.lyr": {
+            "hash": "f468c397e0dcdfc7e40aba5ca18b01e6089e7392", 
+            "installsize": 100765, 
+            "manifest": [
+                "e1917d743f1bc5648df0fa43cefcc402d50c3a08 GameSDK/Assets/levels/singleplayer/woodland/layers/ab04/ab04_objects.lyr"
+            ], 
+            "size": 9889, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab04/ab04_pfx.lyr": {
+            "hash": "6427aeb1a313b094b1b1e227c669ca670a6ed4f7", 
+            "installsize": 10172, 
+            "manifest": [
+                "ed41e2098c7afe1fb40f202d7475dc6b4eefdbc3 GameSDK/Assets/levels/singleplayer/woodland/layers/ab04/ab04_pfx.lyr"
+            ], 
+            "size": 1885, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab05/ab05_gameplay.lyr": {
+            "hash": "435c8813ff6c93065475556a56ca9f110a83e21a", 
+            "installsize": 91614, 
+            "manifest": [
+                "38db838b5f5a399610a47f5535d107ab2a748373 GameSDK/Assets/levels/singleplayer/woodland/layers/ab05/ab05_gameplay.lyr"
+            ], 
+            "size": 13280, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab05/ab05_objects.lyr": {
+            "hash": "a8ac309748312135075f1ceaeac98b61b5d30b59", 
+            "installsize": 214634, 
+            "manifest": [
+                "9ec01efc9471064d5356fcccfa04f0fccd041bad GameSDK/Assets/levels/singleplayer/woodland/layers/ab05/ab05_objects.lyr"
+            ], 
+            "size": 19875, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab05/ab05_pfx.lyr": {
+            "hash": "2134f538e66da9380432f93d8270421db8c39909", 
+            "installsize": 44163, 
+            "manifest": [
+                "7db8eecdd7740d3d29f9913fe2bae8d8dbd654c1 GameSDK/Assets/levels/singleplayer/woodland/layers/ab05/ab05_pfx.lyr"
+            ], 
+            "size": 3684, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab06/ab06_gameplay.lyr": {
+            "hash": "7afda7cf32f69bc984b7fb7788c4a60f345d53a3", 
+            "installsize": 30783, 
+            "manifest": [
+                "c75fd89d109e836296d6975a3ab1efb5b259aaf7 GameSDK/Assets/levels/singleplayer/woodland/layers/ab06/ab06_gameplay.lyr"
+            ], 
+            "size": 5832, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab06/ab06_objects.lyr": {
+            "hash": "0216bad902145b62aa4cbb34fb97c52e21d8a771", 
+            "installsize": 434893, 
+            "manifest": [
+                "6000221b2f9a3fa1113100d229ecdf8ac0b60f8c GameSDK/Assets/levels/singleplayer/woodland/layers/ab06/ab06_objects.lyr"
+            ], 
+            "size": 38103, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/ab06/ab06_pfx.lyr": {
+            "hash": "776f40b9e9efc2a7719cbc82dfe5915872a95ab0", 
+            "installsize": 31027, 
+            "manifest": [
+                "4f00c72ddb3cdd1b9ffec4d8e4d32194b7dc4258 GameSDK/Assets/levels/singleplayer/woodland/layers/ab06/ab06_pfx.lyr"
+            ], 
+            "size": 3101, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/audio.lyr": {
+            "hash": "c2cc9237de20074103e9bde0e28a40bbe6993b46", 
+            "installsize": 71229, 
+            "manifest": [
+                "c5fae59d8e4fbadd68c39c73e27ae59a6cc5cdc8 GameSDK/Assets/levels/singleplayer/woodland/layers/audio.lyr"
+            ], 
+            "size": 10678, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/background.lyr": {
+            "hash": "62d4c3323e50366f0a53946a34120c4e48b70eb7", 
+            "installsize": 192986, 
+            "manifest": [
+                "16d0954b0285527de2ab19fb00e4090179881548 GameSDK/Assets/levels/singleplayer/woodland/layers/background.lyr"
+            ], 
+            "size": 11355, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/cinematics.lyr": {
+            "hash": "8e15d20173659998d45a23c716c31df6e1bd9ad4", 
+            "installsize": 117397, 
+            "manifest": [
+                "9395f83302b900fac876eb93a6bf25f9cafd7b20 GameSDK/Assets/levels/singleplayer/woodland/layers/cinematics.lyr"
+            ], 
+            "size": 24704, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/gdc_demo_materials.lyr": {
+            "hash": "e09048c1ab3c4c89848c572689592ecd42711e59", 
+            "installsize": 46224, 
+            "manifest": [
+                "d244dfc55d391335d140b23512bb8b9225afcdba GameSDK/Assets/levels/singleplayer/woodland/layers/gdc_demo_materials.lyr"
+            ], 
+            "size": 3629, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/level_occ_mesh.lyr": {
+            "hash": "602c49a407099e44c6ddb17845c58527eafaa8c7", 
+            "installsize": 686878, 
+            "manifest": [
+                "65babc97092940b6233743b1f7b067575c33ac11 GameSDK/Assets/levels/singleplayer/woodland/layers/level_occ_mesh.lyr"
+            ], 
+            "size": 115191, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab01_lighting.lyr": {
+            "hash": "49657162fcafc37210abe47c28e009687b7e9212", 
+            "installsize": 19377, 
+            "manifest": [
+                "584c8a45c7de96a69c9a6407446638dce2ea80df GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab01_lighting.lyr"
+            ], 
+            "size": 2480, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab02_lighting.lyr": {
+            "hash": "5a4fd21e8fb4febb02ef6e9d311a2af940a3c0ea", 
+            "installsize": 2678, 
+            "manifest": [
+                "bd109c4cd473c648a410c266298ddfff2f079226 GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab02_lighting.lyr"
+            ], 
+            "size": 1279, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab03_lighting.lyr": {
+            "hash": "527d015ded1422be0b3c9f67d5b8fd373754079c", 
+            "installsize": 3855, 
+            "manifest": [
+                "f266b234cdfd4dd0c5850e015fd582012442913a GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab03_lighting.lyr"
+            ], 
+            "size": 1417, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab04_lighting.lyr": {
+            "hash": "aeea181decb7f569b1ce1dc720dfba40ba02e94c", 
+            "installsize": 1494, 
+            "manifest": [
+                "719645c046836c16fca53cf1fc35eb70ea50b40a GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab04_lighting.lyr"
+            ], 
+            "size": 1201, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab05_lighting.lyr": {
+            "hash": "db6c076281761dcfc3d79b1fcdf9f9d6e3037af6", 
+            "installsize": 11058, 
+            "manifest": [
+                "3511bafc722e6d96b2373bfcebc96aac48416c0a GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab05_lighting.lyr"
+            ], 
+            "size": 1885, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab06_lighting.lyr": {
+            "hash": "a067f9f2df6b328bf95951fb1e3f3a2457ddcb87", 
+            "installsize": 16988, 
+            "manifest": [
+                "a6138ab73bf45cec20c85b5d94a266cf60bae325 GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/ab06_lighting.lyr"
+            ], 
+            "size": 2230, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/lighting_global.lyr": {
+            "hash": "887ff7d9bfcd0ba0968c448924708afd037b9bd3", 
+            "installsize": 2068, 
+            "manifest": [
+                "1474b9c260d383edcf9b8cc820c88e5d6759020a GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/lighting_global.lyr"
+            ], 
+            "size": 1310, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/lighting_helpers.lyr": {
+            "hash": "985c5430e649fda4b406584ba93503627d50d9f2", 
+            "installsize": 80508, 
+            "manifest": [
+                "794c1a785d996db2a731e3342094c6f193cbc17f GameSDK/Assets/levels/singleplayer/woodland/layers/lighting/lighting_helpers.lyr"
+            ], 
+            "size": 5848, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/lighting_night.lyr": {
+            "hash": "4b05189b5635fbf902d971186c88b1aeeb3fd533", 
+            "installsize": 1431, 
+            "manifest": [
+                "b0d1bfc68f1518b0f499b02a8648fee3cbd0f7fc GameSDK/Assets/levels/singleplayer/woodland/layers/lighting_night.lyr"
+            ], 
+            "size": 1128, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/main.lyr": {
+            "hash": "d2c4847c5d6ce2398acb39028765e619db097317", 
+            "installsize": 116222, 
+            "manifest": [
+                "95cda1b318de19afadf306ca03a3f2b660cb6eaf GameSDK/Assets/levels/singleplayer/woodland/layers/main.lyr"
+            ], 
+            "size": 18472, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/layers/player_collisions.lyr": {
+            "hash": "20915413089c358a12f22bc8f7ec5b65846c9318", 
+            "installsize": 691966, 
+            "manifest": [
+                "e1710a00627ab704308c91d9cba6949c19d9e492 GameSDK/Assets/levels/singleplayer/woodland/layers/player_collisions.lyr"
+            ], 
+            "size": 112683, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/level.pak": {
+            "hash": "0d6cc14dad49451b76d20987c7c7a8094693c538", 
+            "installsize": 19972560, 
+            "manifest": [
+                "7873348422d8ab8308296d43bd2fa3080242bd25 GameSDK/Assets/levels/singleplayer/woodland/level.pak"
+            ], 
+            "size": 14100122, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/environment.xml": {
+            "hash": "be1b879de426fdda00076f28ba4f439a9f969e57", 
+            "installsize": 2418, 
+            "manifest": [
+                "b383503af57bc1bbe6b7556201395c4aecbc22a1 GameSDK/Assets/levels/singleplayer/woodland/leveldata/environment.xml"
+            ], 
+            "size": 1512, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/gametokens.xml": {
+            "hash": "dbf47c2334d03152fd304cffe562fa3565c7977a", 
+            "installsize": 1185, 
+            "manifest": [
+                "b5ff0e78e518be63c4d1ac410568250cec60b1df GameSDK/Assets/levels/singleplayer/woodland/leveldata/gametokens.xml"
+            ], 
+            "size": 590, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/heightmap.dat": {
+            "hash": "d413f54ab59e012d2a203880c4cee95b75f1e6f4", 
+            "installsize": 22613908, 
+            "manifest": [
+                "a10e95270800ab15123fb5e4b39f13714f6170bd GameSDK/Assets/levels/singleplayer/woodland/leveldata/heightmap.dat"
+            ], 
+            "size": 13775026, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/objectives.xml": {
+            "hash": "42a17ca34a0e8502abcf42f0303f6961a359bf2a", 
+            "installsize": 799, 
+            "manifest": [
+                "1e88f63bee2118b835623dd2875b9b7a5bec035c GameSDK/Assets/levels/singleplayer/woodland/leveldata/objectives.xml"
+            ], 
+            "size": 574, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/terraintexture.xml": {
+            "hash": "3259824cdab79c717db0df162829f1497c3a1b9f", 
+            "installsize": 282, 
+            "manifest": [
+                "ce822dca2bc9196b9ecf44b2b7ff6f1273fece4c GameSDK/Assets/levels/singleplayer/woodland/leveldata/terraintexture.xml"
+            ], 
+            "size": 504, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/timeofday.xml": {
+            "hash": "2cf84d15f5ca74d9238fbb078674c0bc179080f2", 
+            "installsize": 185, 
+            "manifest": [
+                "3fcc76135e6790479891f3b2211cb9f2eb6abaaf GameSDK/Assets/levels/singleplayer/woodland/leveldata/timeofday.xml"
+            ], 
+            "size": 513, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/leveldata/vegetationmap.dat": {
+            "hash": "5bc23cd7154d380fd30af5c0246bad69bfa8aa49", 
+            "installsize": 4289192, 
+            "manifest": [
+                "951e13dda8fcafb6a17c933bb51abdfc5892d986 GameSDK/Assets/levels/singleplayer/woodland/leveldata/vegetationmap.dat"
+            ], 
+            "size": 2373776, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/occluder.ocm": {
+            "hash": "6987af0a06d41ed329e5e16c9cac64fb1dce0278", 
+            "installsize": 66868, 
+            "manifest": [
+                "2ef9dbc055c9f890bbabe85dda8e205d11d99532 GameSDK/Assets/levels/singleplayer/woodland/occluder.ocm"
+            ], 
+            "size": 43690, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/tags.txt": {
+            "hash": "0eb81e686fea74966acf41d5083797918a374edb", 
+            "installsize": 714, 
+            "manifest": [
+                "fb9c1c20c6e6a6434d77212502ccdf8945b4fa05 GameSDK/Assets/levels/singleplayer/woodland/tags.txt"
+            ], 
+            "size": 576, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/terraintexture.pak": {
+            "hash": "90523f808b01c9b0612954b4096531ed128dcb4b", 
+            "installsize": 7401145, 
+            "manifest": [
+                "313cad5378dc8574d57143339ec5b78953efb7d3 GameSDK/Assets/levels/singleplayer/woodland/terraintexture.pak"
+            ], 
+            "size": 7403691, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/timedemo.tmd": {
+            "hash": "8e57dea7f9785bac71766ce7e126faff92d0695a", 
+            "installsize": 739800, 
+            "manifest": [
+                "b620fde5fb5083f47cfca8490d3d2aeed35a6f49 GameSDK/Assets/levels/singleplayer/woodland/timedemo.tmd"
+            ], 
+            "size": 737745, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/woodland.cry": {
+            "hash": "0b69e00766e24e0f7a26f43d3421ead8c4b102ad", 
+            "installsize": 2222, 
+            "manifest": [
+                "e298335272cfeaf40973de512db0931d5230f757 GameSDK/Assets/levels/singleplayer/woodland/woodland.cry"
+            ], 
+            "size": 2589, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/woodland.dds": {
+            "hash": "f163e10d3da55b38ff2427a16474a0c6a177fa29", 
+            "installsize": 2097280, 
+            "manifest": [
+                "b0e53c169042446933fcb7886d25fbaee7a73e5d GameSDK/Assets/levels/singleplayer/woodland/woodland.dds"
+            ], 
+            "size": 1582112, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/levels/singleplayer/woodland/woodland.xml": {
+            "hash": "4ba1f95c26ea37190dead0389eabd5559ef9e736", 
+            "installsize": 160, 
+            "manifest": [
+                "9b5d272fb7ea3667d2e44f951aecee115bf226bc GameSDK/Assets/levels/singleplayer/woodland/woodland.xml"
+            ], 
+            "size": 489, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/localization/english.pak": {
+            "hash": "767e637a79e814bd1bdaea741eaf0dd9d36c2ae9", 
+            "installsize": 304716, 
+            "manifest": [
+                "553ffc06d9b1bb26644b3ea2b6c5960cff5c854d GameSDK/Assets/localization/english.pak"
+            ], 
+            "size": 291493, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/localization/english_xml.pak": {
+            "hash": "50fd540d66f2ef22d14e5feaa728527cceea5dd2", 
+            "installsize": 359387, 
+            "manifest": [
+                "8d9124f49a081d8ec36924edc50a564d6f389b6b GameSDK/Assets/localization/english_xml.pak"
+            ], 
+            "size": 61082, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/localization/german.pak": {
+            "hash": "be91ce07e3f6fd0735dc45fb2f2b13654997c569", 
+            "installsize": 244601, 
+            "manifest": [
+                "a897f89f7ee39d8393b25bee9af7117a1c9c04ae GameSDK/Assets/localization/german.pak"
+            ], 
+            "size": 231917, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/localization/german_xml.pak": {
+            "hash": "0abed855dcec156ea637d0aaed6111349a3ff80c", 
+            "installsize": 424177, 
+            "manifest": [
+                "1963171f71cf376afd620b0caf2d0f87c2d3a7ce GameSDK/Assets/localization/german_xml.pak"
+            ], 
+            "size": 96386, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/objects.pak": {
+            "hash": "195a286d65a62dace0a32389a25e7902655e4f7a", 
+            "installsize": 344027494, 
+            "manifest": [
+                "e210e7484586e694a3f4e6824ce5d2d019cce930 GameSDK/Assets/objects.pak"
+            ], 
+            "size": 342478913, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/objectschar.pak": {
+            "hash": "54c8a4a638852830710f10135821508fbf7fc15a", 
+            "installsize": 458718388, 
+            "manifest": [
+                "39930ad34c4c83ec38ef3df1cc262fe464544f3b GameSDK/Assets/objectschar.pak"
+            ], 
+            "size": 457530539, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/objectsnatural.pak": {
+            "hash": "94f44300cb0b437df2b04e16c459fad1e16b74b3", 
+            "installsize": 515576766, 
+            "manifest": [
+                "4eb99a5254e9904f969786dede5dbd84d6e27d0b GameSDK/Assets/objectsnatural.pak"
+            ], 
+            "size": 514477570, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/objectsprops.pak": {
+            "hash": "80c2fdab9d06fe3460128942fb44ca39e84eca2c", 
+            "installsize": 396216137, 
+            "manifest": [
+                "7320b85843c5dbb2083520c023accfff706b65cc GameSDK/Assets/objectsprops.pak"
+            ], 
+            "size": 394615771, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/objectsvehicles.pak": {
+            "hash": "dfaf1cee9a16cef6807c9b52aba0833c17920af3", 
+            "installsize": 419118055, 
+            "manifest": [
+                "d74a6278b03c7f7b5dd70d895c350031e53decf7 GameSDK/Assets/objectsvehicles.pak"
+            ], 
+            "size": 417688366, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/objectsweap.pak": {
+            "hash": "30798f569fe0c0d0265073211084251ac522ca93", 
+            "installsize": 118677282, 
+            "manifest": [
+                "4e579f7f5c8145bb396a0830de0bfef0c5e95cf1 GameSDK/Assets/objectsweap.pak"
+            ], 
+            "size": 118070607, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/scripts.pak": {
+            "hash": "424a8e41d456fedd041cc32486958896c8a9832d", 
+            "installsize": 807021, 
+            "manifest": [
+                "dcc24ec01782d6c068b3e9d8cebdae134e1b9e7a GameSDK/Assets/scripts.pak"
+            ], 
+            "size": 744935, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/textures.pak": {
+            "hash": "7db4a68d43d1f75928851a9a0234fa012b1b63e5", 
+            "installsize": 541790058, 
+            "manifest": [
+                "32970530d2aa6fdf4dc04b3ce5d2f9060cced230 GameSDK/Assets/textures.pak"
+            ], 
+            "size": 540749300, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/texturesgeneric.pak": {
+            "hash": "87ff5a6f4867cb8e5bbce6af56780359d0a0cf60", 
+            "installsize": 831217770, 
+            "manifest": [
+                "6d2bcb6b0972a8e159f5422726f826e2e89477a0 GameSDK/Assets/texturesgeneric.pak"
+            ], 
+            "size": 830122996, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/texturesterrain.pak": {
+            "hash": "651235f5abeaa10ac00a60932ca810b3a2d33f29", 
+            "installsize": 541544337, 
+            "manifest": [
+                "3e6aa9b7ae6e9f93ffad39c662815b39ebe8ceb4 GameSDK/Assets/texturesterrain.pak"
+            ], 
+            "size": 541378852, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Assets/videos.pak": {
+            "hash": "38cdcb57f193e6894596903bea6edfe07f902416", 
+            "installsize": 10610266, 
+            "manifest": [
+                "d7c245f2ba57d3975dffecf3ea9df6ceb50ecba4 GameSDK/Assets/videos.pak"
+            ], 
+            "size": 9980909, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Editor.bat": {
+            "hash": "946d037a6c7c8ebc5146d1f30ccec035dacdfce9", 
+            "installsize": 1136, 
+            "manifest": [
+                "9581e87216046151855be46e3058ca2c3410f38b GameSDK/Editor.bat"
+            ], 
+            "size": 800, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/Game.bat": {
+            "hash": "d2d2b722b520523afc3bd8f4beffa6d8d95e2c53", 
+            "installsize": 1136, 
+            "manifest": [
+                "7bb58cb7fe9358c664ed0f6d8634475e8c6342cc GameSDK/Game.bat"
+            ], 
+            "size": 795, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/bin/win_x64/Game.dll": {
+            "hash": "8bac046a2e0c82b1ddd150ee965fd1f1dbadad6d", 
+            "installsize": 16774656, 
+            "manifest": [
+                "7a144801045170597ca8c4644df1a0d46880c36b GameSDK/bin/win_x64/Game.dll"
+            ], 
+            "size": 5395285, 
+            "type": "bootstrap"
+        }, 
+        "GameSDK/project.cfg": {
+            "hash": "86dbf554b59e3757f175c04555a64469b7e0b7d6", 
+            "installsize": 63, 
+            "manifest": [
+                "a37ea42a5d24c75dd167daf49fad9f168bc3b7bc GameSDK/project.cfg"
+            ], 
+            "size": 392, 
+            "type": "bootstrap"
+        }
+    }, 
+    "title": "CE_ASSET"
+}
